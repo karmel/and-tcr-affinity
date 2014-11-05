@@ -155,7 +155,7 @@ class ImageAnalyzer(object):
 
         return segments
 
-    def find_low_intensity(self, segments, min_intensity=.6, threshold=.8):
+    def find_low_intensity(self, segments, min_intensity=.5, threshold=.9):
         '''
         Returns the indices of segments where more than `threshold` fraction
         of the total pixels are below the `min_intensity` intensity value.
@@ -164,7 +164,6 @@ class ImageAnalyzer(object):
         for i, segment in enumerate(segments):
             total_pixels = segment.size
             below_min = sum(segment.flatten() < min_intensity)
-            print(total_pixels, below_min, below_min / total_pixels)
             if below_min / total_pixels > threshold:
                 low_intensity.append(i)
         return low_intensity

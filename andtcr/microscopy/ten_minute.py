@@ -57,8 +57,10 @@ if __name__ == '__main__':
 
     to_remove = yzer.find_low_intensity(cells_cd4)
     print(len(cells_cd4))
-    print(len(to_remove))
-    print(to_remove)
+    [cells_cd4.remove(i) for i in to_remove]
+    [cells_second.remove(i) for i in to_remove]
+    print(len(cells_cd4))
+    print(len(cells_second))
 
     # Pair the cells
     cd4_second_pairs = zip(cells_cd4, cells_second)
