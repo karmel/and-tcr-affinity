@@ -27,16 +27,18 @@ if __name__ == '__main__':
         image, min_sigma=5, max_sigma=25, num_sigma=100, threshold=.01)
     blobs = yzer.filter_blobs(blobs, 14, 22)
     yzer.plot_blobs(image, blobs)
-    mask = yzer.make_mask(image, blobs)
+    mask, squares = yzer.make_mask(image, blobs)
 
     # Isolate CD4s
-    cd4_image = yzer.grayscale(yzer.increase_contrast(orig_image))
+    cd4_image = yzer.grayscale(orig_image)
     masked_cd4 = yzer.mask_image(cd4_image, mask)
 
     # Get second antibody
     second_image = yzer.import_image(*pathing +
                                      [filename.format(antibody)])
-    second_image = yzer.grayscale(yzer.increase_contrast(second_image))
+    second_image = yzer.grayscale(second_image)
     masked_second = yzer.mask_image(second_image, mask)
 
-    # Pick out CD4s from
+    # Pick out CD4s from the masked image.
+    cells_cd4 = yzer.extract_squares(masked_cd4, squares)
+    cells_second = yzer.extract_squares(masked_second, squares)

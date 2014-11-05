@@ -74,7 +74,7 @@ class ImageAnalyzer(object):
         blobs = blobs[blobs[:, 2] <= max]
         return blobs
 
-    def plot_blobs(self, image, blobs, savepath=None):
+    def plot_blobs(self, image, blobs, savepath=None, show_plot=False):
         _, ax = plt.subplots(1, 1)
         ax.imshow(image, interpolation='nearest')
         for blob in blobs:
@@ -85,30 +85,63 @@ class ImageAnalyzer(object):
         if savepath:
             plt.savefig(savepath)
 
-        plt.show()
+        if show_plot:
+            plt.show()
+
+        plt.close()
 
     def make_mask(self, image, blobs):
         '''
         Given a set of blobs, create a mask with circles appropriately
         placed, the same size as the image.
+
+        At the same time, save the coordinates of the circles so that we can
+        extract the squares with contained blobs if desired.
+
+        Return both the mask and the set of squares as
+        [row_start, row_end, col_start, col_end]
         '''
 
         mask_array = np.zeros(image.shape)
+        squares = []
         for x, y, r in blobs:
             rows, cols = circle(x, y, r)
             # Make sure we keep our circles in bounds
             rows = [max(0, min(r, mask_array.shape[0] - 1)) for r in rows]
             cols = [max(0, min(c, mask_array.shape[1] - 1)) for c in cols]
             mask_array[rows, cols] = 1
+            squares.append([min(rows), max(rows), min(cols), max(cols)])
+        return mask_array, squares
 
-        return mask_array
-
-    def mask_image(self, image, mask):
+    def mask_image(self, image, mask, savepath=None, show_plot=True):
         '''
         Zero out non-CD4 elements of the image.
         '''
         masked = np.minimum(image, mask)
-        _, (ax1, ax2) = plt.subplots(2, 1)
+        _, (ax1, ax2) = plt.subplots(1, 2)
         ax1.imshow(image)
         ax2.imshow(masked)
-        plt.show()
+
+        if savepath:
+            plt.savefig(savepath)
+
+        if show_plot:
+            plt.show()
+
+        plt.close()
+        return masked
+
+    def extract_squares(self, image, squares):
+        '''
+        Given an image and a set of [row_start, row_end, col_start, col_end]
+        coordinates, extract the squares and return the set of image segments.
+        '''
+        segments = []
+        for row_start, row_end, col_start, col_end in squares:
+            segment = image[row_start:row_end, col_start:col_end]
+            segments.append(segment)
+            _, ax1 = plt.subplots(1, 1)
+            ax1.imshow(segment)
+            plt.show()
+
+        return segments
