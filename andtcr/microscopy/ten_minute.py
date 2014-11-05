@@ -6,6 +6,8 @@ Created on Nov 4, 2014
 Ten minute timepoint images.
 '''
 
+import os
+
 from andtcr.microscopy.base import ImageAnalyzer
 if __name__ == '__main__':
 
@@ -16,6 +18,7 @@ if __name__ == '__main__':
                'AND_TCR', 'Microscopy',
                '2014-9-24 2 & 10 min timepoint', '10 min',
                'No peptide', 'pZap70']
+    save_dir = os.path.join(*pathing + ['output'])
     filename = '2014-9-25 AND CD4+ 10 min_NP_pZap70_1_{}.tif'
     orig_image = yzer.import_image(*pathing +
                                    [filename.format('cd4')])
@@ -40,5 +43,22 @@ if __name__ == '__main__':
     masked_second = yzer.mask_image(second_image, mask)
 
     # Pick out CD4s from the masked image.
-    cells_cd4 = yzer.extract_squares(masked_cd4, squares)
-    cells_second = yzer.extract_squares(masked_second, squares)
+    savepath = os.path.join(save_dir, 'segment_cd4_stain_{}.png')
+    cells_cd4 = yzer.extract_squares(masked_cd4, squares, savepath=savepath)
+    savepath = os.path.join(
+        save_dir, 'segment_' + antibody + '_cd4_stain_{}.png')
+    cells_second = yzer.extract_squares(
+        masked_second, squares, savepath=savepath)
+
+    # Now filter out cells without a sufficient amount of cd4--
+    # These are likely DCs, etc, that have taken up some antibody.
+    cells_cd4 = [yzer.rescale_intensity(cell) for cell in cells_cd4]
+    cells_second = [yzer.rescale_intensity(cell) for cell in cells_second]
+
+    to_remove = yzer.find_low_intensity(cells_cd4)
+    print(len(cells_cd4))
+    print(len(to_remove))
+    print(to_remove)
+
+    # Pair the cells
+    cd4_second_pairs = zip(cells_cd4, cells_second)

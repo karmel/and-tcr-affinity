@@ -34,12 +34,12 @@ class ImageAnalyzer(object):
         filename = os.path.join(*fileparts)
         return io.imread(filename)
 
-    def rescale_intensity(self, image):
+    def rescale_intensity(self, image, bottom=2, top=98):
         '''
         Rescale the intensity at the ends of the spectral range
         to make blobbing better.
         '''
-        low, high = np.percentile(image, (2, 98))
+        low, high = np.percentile(image, (bottom, top))
         image = exposure.rescale_intensity(image, in_range=(low, high))
 
         return image
@@ -113,7 +113,7 @@ class ImageAnalyzer(object):
             squares.append([min(rows), max(rows), min(cols), max(cols)])
         return mask_array, squares
 
-    def mask_image(self, image, mask, savepath=None, show_plot=True):
+    def mask_image(self, image, mask, savepath=None, show_plot=False):
         '''
         Zero out non-CD4 elements of the image.
         '''
@@ -131,17 +131,40 @@ class ImageAnalyzer(object):
         plt.close()
         return masked
 
-    def extract_squares(self, image, squares):
+    def extract_squares(self, image, squares, savepath=None, show_plot=False):
         '''
         Given an image and a set of [row_start, row_end, col_start, col_end]
         coordinates, extract the squares and return the set of image segments.
+
+        Savepath should have a formattable place for the index of the segment
+        if passed-- ie, `'extracted_cell_cd4_stain_{}.png'`
         '''
         segments = []
-        for row_start, row_end, col_start, col_end in squares:
+        for i, (row_start, row_end, col_start, col_end) in enumerate(squares):
             segment = image[row_start:row_end, col_start:col_end]
             segments.append(segment)
             _, ax1 = plt.subplots(1, 1)
             ax1.imshow(segment)
-            plt.show()
+            if savepath:
+                plt.savefig(savepath.format(i))
+
+            if show_plot:
+                plt.show()
+
+            plt.close()
 
         return segments
+
+    def find_low_intensity(self, segments, min_intensity=.6, threshold=.8):
+        '''
+        Returns the indices of segments where more than `threshold` fraction
+        of the total pixels are below the `min_intensity` intensity value.
+        '''
+        low_intensity = []
+        for i, segment in enumerate(segments):
+            total_pixels = segment.size
+            below_min = sum(segment.flatten() < min_intensity)
+            print(total_pixels, below_min, below_min / total_pixels)
+            if below_min / total_pixels > threshold:
+                low_intensity.append(i)
+        return low_intensity
