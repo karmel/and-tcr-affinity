@@ -18,10 +18,13 @@ if __name__ == '__main__':
                'AND_TCR', 'Microscopy',
                '2014-9-24 2 & 10 min timepoint', '10 min',
                'No peptide', 'pZap70']
-    save_dir = os.path.join(*pathing + ['output'])
     filename = '2014-9-25 AND CD4+ 10 min_NP_pZap70_1_{}.tif'
     orig_image = yzer.import_image(*pathing +
                                    [filename.format('cd4')])
+
+    save_dir = os.path.join(*pathing + ['output'])
+    if not os.path.exists(save_dir):
+        os.mkdir(save_dir)
 
     # Prep CD4 image
     image = yzer.rescale_intensity(orig_image)
@@ -56,11 +59,10 @@ if __name__ == '__main__':
     cells_second = [yzer.rescale_intensity(cell) for cell in cells_second]
 
     to_remove = yzer.find_low_intensity(cells_cd4)
-    print(len(cells_cd4))
-    [cells_cd4.remove(i) for i in to_remove]
-    [cells_second.remove(i) for i in to_remove]
-    print(len(cells_cd4))
-    print(len(cells_second))
+    print('Removing cells with indices', to_remove)
+    cells_cd4 = [el for i, el in enumerate(cells_cd4) if i not in to_remove]
+    cells_second = [
+        el for i, el in enumerate(cells_second) if i not in to_remove]
 
-    # Pair the cells
-    cd4_second_pairs = zip(cells_cd4, cells_second)
+    # Determine similarity for all cells.
+    print(yzer.determine_similarity(cells_cd4, cells_second))

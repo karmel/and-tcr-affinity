@@ -20,6 +20,7 @@ from math import sqrt
 import os
 
 from matplotlib import pyplot as plt
+import scipy
 from skimage import io, exposure
 from skimage.color import rgb2gray
 from skimage.draw.draw import circle
@@ -167,3 +168,15 @@ class ImageAnalyzer(object):
             if below_min / total_pixels > threshold:
                 low_intensity.append(i)
         return low_intensity
+
+    def determine_similarity(self, set1, set2):
+        '''
+        Given two sets of image-derived arrays of the same size, 
+        calculate the mean similarity between each pair of images.
+        '''
+        pairs = zip(set1, set2)
+        scores = []
+        for array1, array2 in pairs:
+            scores.append(scipy.stats.spearmanr(array1, array2, axis=None))
+
+        return np.mean(scores)
