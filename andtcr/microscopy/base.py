@@ -185,6 +185,7 @@ class ImageAnalyzer(object):
         scores = []
         for a in arrays:
             #scores.append(spearmanr(array1, array2, axis=None)[0])
+
             score = self.get_outer_inner_ratio(a)
             if np.isnan(score):
                 # No intensity values at all-- 0/0.
