@@ -180,7 +180,7 @@ class ImageAnalyzer(object):
 
     def determine_scores(self, arrays, max_score=3):
         '''
-        Given avset of image-derived arrays, calculate the score for each.
+        Given a set of image-derived arrays, calculate the score for each.
         '''
         scores = []
         for a in arrays:
