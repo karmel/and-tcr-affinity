@@ -9,20 +9,20 @@ Ten minute timepoint images.
 import os
 
 from andtcr.microscopy.base import ImageAnalyzer
-if __name__ == '__main__':
+import numpy as np
 
-    yzer = ImageAnalyzer()
 
-    antibody = 'pzap70'
+def process_sample_set(timepoint, sample, antibody, image_num):
     pathing = ['/Users/karmel/GlassLab/Notes_and_Reports',
                'AND_TCR', 'Microscopy',
-               '2014-9-24 2 & 10 min timepoint', '10 min',
-               'No peptide', 'pZap70']
-    filename = '2014-9-25 AND CD4+ 10 min_NP_pZap70_1_{}.tif'
+               'for_processing', timepoint,
+               sample, antibody]
+    filename = '{}_{}_{}_{}_{{}}.tif'.format(
+        timepoint, sample, antibody, image_num)
     orig_image = yzer.import_image(*pathing +
                                    [filename.format('cd4')])
 
-    save_dir = os.path.join(*pathing + ['output'])
+    save_dir = os.path.join(*pathing + ['output_{}'.format(image_num)])
     if not os.path.exists(save_dir):
         os.mkdir(save_dir)
 
@@ -32,24 +32,27 @@ if __name__ == '__main__':
     blobs = yzer.get_blobs(
         image, min_sigma=5, max_sigma=25, num_sigma=100, threshold=.01)
     blobs = yzer.filter_blobs(blobs, 14, 22)
-    yzer.plot_blobs(image, blobs)
+    savepath = os.path.join(save_dir, 'blob_localization.png')
+    yzer.plot_blobs(image, blobs, savepath=savepath)
     mask, squares = yzer.make_mask(image, blobs)
 
     # Isolate CD4s
     cd4_image = yzer.grayscale(orig_image)
-    masked_cd4 = yzer.mask_image(cd4_image, mask)
+    savepath = os.path.join(save_dir, 'masked_image_cd4.png')
+    masked_cd4 = yzer.mask_image(cd4_image, mask, savepath=savepath)
 
     # Get second antibody
     second_image = yzer.import_image(*pathing +
                                      [filename.format(antibody)])
     second_image = yzer.grayscale(second_image)
-    masked_second = yzer.mask_image(second_image, mask)
+    savepath = os.path.join(save_dir, 'masked_image_{}.png'.format(antibody))
+    masked_second = yzer.mask_image(second_image, mask, savepath=savepath)
 
     # Pick out CD4s from the masked image.
     savepath = os.path.join(save_dir, 'segment_cd4_stain_{}.png')
     cells_cd4 = yzer.extract_squares(masked_cd4, squares, savepath=savepath)
     savepath = os.path.join(
-        save_dir, 'segment_' + antibody + '_cd4_stain_{}.png')
+        save_dir, 'segment_{}_cd4_stain_{{}}.png'.format(antibody))
     cells_second = yzer.extract_squares(
         masked_second, squares, savepath=savepath)
 
@@ -65,4 +68,37 @@ if __name__ == '__main__':
         el for i, el in enumerate(cells_second) if i not in to_remove]
 
     # Determine similarity for all cells.
-    print(yzer.determine_similarity(cells_cd4, cells_second))
+    cd4_scores = yzer.determine_scores(cells_cd4)
+    print('CD4 scores\t', cd4_scores)
+    print('CD4 mean, std\t{}\t{}'.format(
+        np.mean(cd4_scores), np.std(cd4_scores)))
+
+    second_scores = yzer.determine_scores(cells_second)
+    print(antibody + ' scores\t', second_scores)
+    return second_scores
+
+if __name__ == '__main__':
+
+    yzer = ImageAnalyzer()
+
+    yzer.skip_plotting = True
+
+    timepoints = ['10min']
+    samples = ['no_peptide', '10um_k99a', '100um_k99a',
+               '0_001um_pcc', '10um_pcc']
+    antibodies = ['perk', 'plat', 'pzap70', 'rasgrp', 'sos']
+
+    for timepoint in timepoints:
+        for sample in samples:
+            for antibody in antibodies:
+                scores = []
+                for image_num in range(1, 5):
+                    scores += process_sample_set(timepoint,
+                                                 sample,
+                                                 antibody,
+                                                 image_num)
+                print('{}\t{}\t{}\t{}\t{}'.format(timepoint,
+                                                  sample,
+                                                  antibody,
+                                                  np.mean(scores),
+                                                  np.std(scores)))

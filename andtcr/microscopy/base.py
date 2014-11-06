@@ -20,7 +20,7 @@ from math import sqrt
 import os
 
 from matplotlib import pyplot as plt
-import scipy
+from scipy.stats.stats import spearmanr
 from skimage import io, exposure
 from skimage.color import rgb2gray
 from skimage.draw.draw import circle
@@ -30,6 +30,7 @@ import numpy as np
 
 
 class ImageAnalyzer(object):
+    skip_plotting = False
 
     def import_image(self, *fileparts):
         filename = os.path.join(*fileparts)
@@ -41,7 +42,10 @@ class ImageAnalyzer(object):
         to make blobbing better.
         '''
         low, high = np.percentile(image, (bottom, top))
-        image = exposure.rescale_intensity(image, in_range=(low, high))
+        if low != high:
+            # Returns nan if all values are too similar.
+            # Skip the rescale in that case.
+            image = exposure.rescale_intensity(image, in_range=(low, high))
 
         return image
 
@@ -76,20 +80,22 @@ class ImageAnalyzer(object):
         return blobs
 
     def plot_blobs(self, image, blobs, savepath=None, show_plot=False):
-        _, ax = plt.subplots(1, 1)
-        ax.imshow(image, interpolation='nearest')
-        for blob in blobs:
-            y, x, r = blob
-            c = plt.Circle((x, y), r, color='black', linewidth=2, fill=False)
-            ax.add_patch(c)
+        if not self.skip_plotting:
+            _, ax = plt.subplots(1, 1)
+            ax.imshow(image, interpolation='nearest')
+            for blob in blobs:
+                y, x, r = blob
+                c = plt.Circle(
+                    (x, y), r, color='black', linewidth=2, fill=False)
+                ax.add_patch(c)
 
-        if savepath:
-            plt.savefig(savepath)
+            if savepath:
+                plt.savefig(savepath)
 
-        if show_plot:
-            plt.show()
+            if show_plot:
+                plt.show()
 
-        plt.close()
+            plt.close()
 
     def make_mask(self, image, blobs):
         '''
@@ -119,17 +125,18 @@ class ImageAnalyzer(object):
         Zero out non-CD4 elements of the image.
         '''
         masked = np.minimum(image, mask)
-        _, (ax1, ax2) = plt.subplots(1, 2)
-        ax1.imshow(image)
-        ax2.imshow(masked)
+        if not self.skip_plotting:
+            _, (ax1, ax2) = plt.subplots(1, 2)
+            ax1.imshow(image)
+            ax2.imshow(masked)
 
-        if savepath:
-            plt.savefig(savepath)
+            if savepath:
+                plt.savefig(savepath)
 
-        if show_plot:
-            plt.show()
+            if show_plot:
+                plt.show()
 
-        plt.close()
+            plt.close()
         return masked
 
     def extract_squares(self, image, squares, savepath=None, show_plot=False):
@@ -144,15 +151,17 @@ class ImageAnalyzer(object):
         for i, (row_start, row_end, col_start, col_end) in enumerate(squares):
             segment = image[row_start:row_end, col_start:col_end]
             segments.append(segment)
-            _, ax1 = plt.subplots(1, 1)
-            ax1.imshow(segment)
-            if savepath:
-                plt.savefig(savepath.format(i))
 
-            if show_plot:
-                plt.show()
+            if not self.skip_plotting:
+                _, ax1 = plt.subplots(1, 1)
+                ax1.imshow(segment)
+                if savepath:
+                    plt.savefig(savepath.format(i))
 
-            plt.close()
+                if show_plot:
+                    plt.show()
+
+                plt.close()
 
         return segments
 
@@ -169,14 +178,41 @@ class ImageAnalyzer(object):
                 low_intensity.append(i)
         return low_intensity
 
-    def determine_similarity(self, set1, set2):
+    def determine_scores(self, arrays, max_score=3):
         '''
-        Given two sets of image-derived arrays of the same size, 
-        calculate the mean similarity between each pair of images.
+        Given avset of image-derived arrays, calculate the score for each.
         '''
-        pairs = zip(set1, set2)
         scores = []
-        for array1, array2 in pairs:
-            scores.append(scipy.stats.spearmanr(array1, array2, axis=None))
+        for a in arrays:
+            #scores.append(spearmanr(array1, array2, axis=None)[0])
+            score = self.get_outer_inner_ratio(a)
+            if np.isnan(score):
+                # No intensity values at all-- 0/0.
+                score = 0
+            scores.append(min(score, max_score))
 
-        return np.mean(scores)
+        return scores
+
+    def get_outer_inner_ratio(self, array):
+        '''
+        For the passed array, find the ratio of intensity for the outer rim
+        versus the inner rectangle. Outer is considered one quarter the total 
+        width or height.
+        '''
+        width = array.shape[0]
+        height = array.shape[1]
+        one_qtr_w = width // 4
+        three_qtr_w = 3 * width // 4
+        one_qtr_h = height // 4
+        three_qtr_h = 3 * height // 4
+        inner = array[one_qtr_w:three_qtr_w, one_qtr_h:three_qtr_h]
+        inner_sum = inner.sum()
+
+        outer_top = array[:one_qtr_w]
+        outer_bottom = array[three_qtr_w:]
+        outer_left = array[one_qtr_w:three_qtr_w, :one_qtr_h]
+        outer_right = array[one_qtr_w:three_qtr_w, three_qtr_h:]
+        outer_sum = outer_top.sum() + outer_bottom.sum() \
+            + outer_left.sum() + outer_right.sum()
+
+        return outer_sum / inner_sum
