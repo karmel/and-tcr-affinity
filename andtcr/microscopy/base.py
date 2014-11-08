@@ -67,8 +67,7 @@ class ImageAnalyzer(object):
         '''
         blobs = blob_log(image, **kwargs)
         # Compute radii in the 3rd column.
-        # Expand the radius to get a circle around the whole cell.
-        blobs[:, 2] = blobs[:, 2] * 1.3 * sqrt(2)
+        blobs[:, 2] = blobs[:, 2] * sqrt(2)
         return blobs
 
     def filter_blobs(self, blobs, min, max):
@@ -178,7 +177,7 @@ class ImageAnalyzer(object):
                 low_intensity.append(i)
         return low_intensity
 
-    def determine_scores(self, arrays, max_score=3):
+    def determine_scores(self, arrays, max_score=10):
         '''
         Given a set of image-derived arrays, calculate the score for each.
         '''

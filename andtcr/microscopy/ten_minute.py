@@ -12,7 +12,7 @@ from andtcr.microscopy.base import ImageAnalyzer
 import numpy as np
 
 
-def process_sample_set(timepoint, sample, antibody, image_num):
+def process_sample_set(yzer, timepoint, sample, antibody, image_num):
     pathing = ['/Users/karmel/GlassLab/Notes_and_Reports',
                'AND_TCR', 'Microscopy',
                'for_processing', timepoint,
@@ -81,7 +81,7 @@ if __name__ == '__main__':
 
     yzer = ImageAnalyzer()
 
-    yzer.skip_plotting = True
+    yzer.skip_plotting = False
 
     timepoints = ['10min']
     samples = ['no_peptide', '10um_k99a', '100um_k99a',
@@ -93,12 +93,19 @@ if __name__ == '__main__':
             for antibody in antibodies:
                 scores = []
                 for image_num in range(1, 5):
-                    scores += process_sample_set(timepoint,
+                    scores += process_sample_set(yzer,
+                                                 timepoint,
                                                  sample,
                                                  antibody,
                                                  image_num)
-                print('{}\t{}\t{}\t{}\t{}'.format(timepoint,
-                                                  sample,
-                                                  antibody,
-                                                  np.mean(scores),
-                                                  np.std(scores)))
+
+                above = [s for s in scores if s > 2]
+                print('{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}'.format(
+                    timepoint,
+                    sample,
+                    antibody,
+                    np.mean(scores),
+                    np.std(scores),
+                    len(above),
+                    len(scores),
+                    len(above) / len(scores)))
