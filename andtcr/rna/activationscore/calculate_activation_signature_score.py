@@ -98,7 +98,8 @@ class ActivationOptionParser(OptionParser):
         '''
         data_cols = merged.columns.tolist()
         data_cols.remove('pc1')
-        return np.dot(merged['pc1'], merged[data_cols])
+        scores = np.dot(merged['pc1'], merged[data_cols])
+        return pd.Series(scores, index=data_cols)
 
     def scores_from_file(self, filename):
         sig_data = self.get_signature()
