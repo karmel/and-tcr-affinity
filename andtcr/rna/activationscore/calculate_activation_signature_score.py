@@ -75,7 +75,7 @@ class ActivationOptionParser(OptionParser):
 
         return input_data
 
-    def merge_data(self, sig_data, input_data):
+    def merge_data(self, sig_data, input_data, filename):
         '''
         Given our two data sets, we want to extract the activation 
         signature genes from the input data and return the rows of interest
@@ -106,7 +106,7 @@ class ActivationOptionParser(OptionParser):
         input_data = self.get_input_data(filename)
 
         input_data = self.normalize_input(input_data)
-        merged = self.merge_data(sig_data, input_data)
+        merged = self.merge_data(sig_data, input_data, filename)
 
         return self.calculate_scores(merged)
 
@@ -116,4 +116,4 @@ if __name__ == '__main__':
 
     score = parser.scores_from_file(options.file_name)
 
-    print('Activation scores: {}'.format(score))
+    print('Activation scores:\n{}'.format(score))
