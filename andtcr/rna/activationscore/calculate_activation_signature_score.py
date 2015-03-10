@@ -21,7 +21,7 @@ class ActivationOptionParser(OptionParser):
 
     def get_signature(self):
         dir = os.path.dirname(__file__)
-        data_file = os.path.join(dir, 'activation_signature.txt')
+        data_file = os.path.join(dir, 'activation_score_genes.txt')
         data = pd.io.parsers.read_csv(data_file,
                                       sep='\t', header=0)
         data = data.fillna(0)
