@@ -10,6 +10,10 @@ class ActivationOptionParser(OptionParser):
         make_option('-f', '--file_name', action='store',
                     type='string', dest='file_name',
                     help='Path to expression file for processing.'),
+        make_option('-o', '--output_matrix', action='store_true',
+                    dest='output_matrix',
+                    default=False,
+                    help='Should the mean-centered matrix of genes used be output to a file?'),
     ]
 
     id_column = 'gene symbol'
@@ -28,6 +32,9 @@ class ActivationOptionParser(OptionParser):
         return data
 
     def get_input_data(self, filename):
+        '''
+        Process input data, checking for needed columns.
+        '''
         data = pd.io.parsers.read_csv(filename,
                                       sep='\t', header=0)
 
@@ -75,7 +82,7 @@ class ActivationOptionParser(OptionParser):
 
         return input_data
 
-    def merge_data(self, sig_data, input_data, filename):
+    def merge_data(self, sig_data, input_data, filename, output_matrix=False):
         '''
         Given our two data sets, we want to extract the activation 
         signature genes from the input data and return the rows of interest
@@ -90,6 +97,11 @@ class ActivationOptionParser(OptionParser):
             print('Warning! {} of {} signature genes found.'.format(
                 len(merged), len(sig_data)))
 
+        if output_matrix:
+            output_file = os.path.splitext(filename)[0]
+            merged.to_csv(output_file + '.merged.txt',
+                          header=True, index=True, sep='\t')
+
         return merged
 
     def calculate_scores(self, merged):
@@ -101,19 +113,28 @@ class ActivationOptionParser(OptionParser):
         scores = np.dot(merged['pc1'], merged[data_cols])
         return pd.Series(scores, index=data_cols)
 
-    def scores_from_file(self, filename):
+    def normalize_scores(self, scores):
+        '''
+        We want scores to be in the range [-1, 1]
+        '''
+        max_score = scores.abs().max()
+        return scores / max_score
+
+    def scores_from_file(self, filename, output_matrix=False):
         sig_data = self.get_signature()
         input_data = self.get_input_data(filename)
 
         input_data = self.normalize_input(input_data)
-        merged = self.merge_data(sig_data, input_data, filename)
+        merged = self.merge_data(sig_data, input_data, filename, output_matrix)
 
-        return self.calculate_scores(merged)
+        scores = self.calculate_scores(merged)
+        return self.normalize_scores(scores)
 
 if __name__ == '__main__':
     parser = ActivationOptionParser()
     options, args = parser.parse_args()
 
-    score = parser.scores_from_file(options.file_name)
+    score = parser.scores_from_file(options.file_name,
+                                    output_matrix=options.output_matrix)
 
     print('Activation scores:\n{}'.format(score))
