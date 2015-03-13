@@ -1,0 +1,13 @@
+Motif Name	Consensus	P-value	Log P-value	q-value (Benjamini)	# of Target Sequences with Motif(of 76881)	% of Target Sequences with Motif	# of Background Sequences with Motif(of 77204)	% of Background Sequences with Motif
+3T3L1-H3K4me1-7d_IRF2/knownResults.txt	IRF2(IRF)/Erythroblas-IRF2-ChIP-Seq(GSE36985)/Homer	GAAASYGAAASY	1e-5	-1.180e+01	0.0000	838.0	1.09%	718.0	0.93%
+CD4TCell-Th1-H3K4me1_IRF2/knownResults.txt	IRF2(IRF)/Erythroblas-IRF2-ChIP-Seq(GSE36985)/Homer	GAAASYGAAASY	1e-106	-2.459e+02	0.0000	1051.0	2.16%	482.5	1.01%
+CD4TCell-Th2-H3K4me1_IRF2/knownResults.txt	IRF2(IRF)/Erythroblas-IRF2-ChIP-Seq(GSE36985)/Homer	GAAASYGAAASY	1e-8	-1.986e+01	0.0000	293.0	1.23%	224.9	0.86%
+ESC-H3K4me1-1_IRF2/knownResults.txt	IRF2(IRF)/Erythroblas-IRF2-ChIP-Seq(GSE36985)/Homer	GAAASYGAAASY	1e0	-7.850e-04	0.9992	599.0	0.84%	672.2	0.96%
+Fetal-Liver-DN1-H3K4me2_IRF2/knownResults.txt	IRF2(IRF)/Erythroblas-IRF2-ChIP-Seq(GSE36985)/Homer	GAAASYGAAASY	1e-156	-3.593e+02	0.0000	1105.0	2.45%	428.0	0.98%
+Fetal-Liver-DN2a-H3K4me2_IRF2/knownResults.txt	IRF2(IRF)/Erythroblas-IRF2-ChIP-Seq(GSE36985)/Homer	GAAASYGAAASY	1e-177	-4.079e+02	0.0000	1081.0	2.49%	387.9	0.92%
+Fetal-Liver-DN2b-H3K4me2_IRF2/knownResults.txt	IRF2(IRF)/Erythroblas-IRF2-ChIP-Seq(GSE36985)/Homer	GAAASYGAAASY	1e-174	-4.026e+02	0.0000	897.0	2.76%	288.1	0.91%
+LSK_H3K4me1_IRF2/knownResults.txt	IRF2(IRF)/Erythroblas-IRF2-ChIP-Seq(GSE36985)/Homer	GAAASYGAAASY	1e-41	-9.638e+01	0.0000	1199.0	1.54%	785.9	1.01%
+Stat1-KO-CD4TCell-Th1-H3K4me1_IRF2/knownResults.txt	IRF2(IRF)/Erythroblas-IRF2-ChIP-Seq(GSE36985)/Homer	GAAASYGAAASY	1e-59	-1.380e+02	0.0000	1260.0	1.74%	750.9	1.06%
+TCRa-KO-Thymocyte-DP-H3K4me2_IRF2/knownResults.txt	IRF2(IRF)/Erythroblas-IRF2-ChIP-Seq(GSE36985)/Homer	GAAASYGAAASY	1e-82	-1.895e+02	0.0000	520.0	2.27%	222.9	0.86%
+ThioMac-H3K4me1-09-02-24_IRF2/knownResults.txt	IRF2(IRF)/Erythroblas-IRF2-ChIP-Seq(GSE36985)/Homer	GAAASYGAAASY	1e-37	-8.595e+01	0.0000	828.0	1.48%	511.4	0.92%
+Thymocyte-DN3-H3K4me2_IRF2/knownResults.txt	IRF2(IRF)/Erythroblas-IRF2-ChIP-Seq(GSE36985)/Homer	GAAASYGAAASY	1e-138	-3.182e+02	0.0000	701.0	2.50%	221.9	0.82%
