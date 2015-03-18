@@ -1,0 +1,736 @@
+#name (cmd = mergePeaks AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt)	chr	start	end	strand	Stat	Parent files	Total subpeaks	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt
+Merged-chr1-36914502-1	chr1	36861995	36967010	+	985.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr1-54689
+Merged-chr5-117149202-1	chr5	117114849	117183555	+	856.299988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr5-1237
+Merged-chr5-113828759-1	chr5	113812644	113844875	+	881.299988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr5-56692
+Merged-chr18-20976366-1	chr18	20932701	21020032	+	870.599976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr18-17403
+Merged-chr10-98933551-1	chr10	98875389	98991714	+	944.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr10-27189
+Merged-chr1-136148467-1	chr1	136116423	136180511	+	1019.099976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr1-26859
+Merged-chr17-12765330-1	chr17	12720055	12810606	+	863.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr17-25079
+Merged-chr12-3318060-1	chr12	3263819	3372301	+	917.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr12-30562
+Merged-chr5-3501201-1	chr5	3455787	3546615	+	1273.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr5-47276
+Merged-chr6-94663975-1	chr6	94621999	94705951	+	1200.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr6-58132
+Merged-chr1-164071675-1	chr1	164044542	164098808	+	876.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr1-65261
+Merged-chr2-156228059-1	chr2	156177021	156279098	+	835.599976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr2-80854
+Merged-chr15-100096355-1	chr15	100039089	100153621	+	1208.300049	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr15-7629
+Merged-chr5-115701949-1	chr5	115670484	115733415	+	913.299988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr5-56897
+Merged-chr1-95623485-1	chr1	95572669	95674301	+	1004.700012	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr1-21359
+Merged-chr9-57963003-1	chr9	57927494	57998513	+	908.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-30894
+Merged-chr7-104298206-1	chr7	104277954	104318459	+	900.299988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr7-33920
+Merged-chr9-122213986-1	chr9	122176990	122250982	+	867.599976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-46928
+Merged-chr13-32985842-1	chr13	32960559	33011125	+	907.200012	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr13-36820
+Merged-chr18-38431206-1	chr18	38398401	38464012	+	835.200012	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr18-12171
+Merged-chr1-171648141-1	chr1	171594017	171702265	+	1273.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr1-73400
+Merged-chr9-77947855-1	chr9	77909271	77986439	+	1008.299988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-45468
+Merged-chr11-57996267-1	chr11	57951268	58041266	+	944.200012	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr11-46559
+Merged-chr11-43393376-1	chr11	43351516	43435236	+	1001.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr11-54551
+Merged-chr2-102977530-1	chr2	102936010	103019050	+	1167.599976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr2-70188
+Merged-chr12-104996016-1	chr12	104954822	105037210	+	1226.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr12-41416
+Merged-chr13-116997734-1	chr13	116940342	117055127	+	857.700012	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr13-26041
+Merged-chr9-114447714-1	chr9	114385176	114510252	+	1214.599976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-57784
+Merged-chr2-151561482-1	chr2	151526669	151596296	+	992.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr2-71865
+Merged-chr3-93554649-1	chr3	93501374	93607925	+	1537.599976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr3-34814
+Merged-chr18-67262983-1	chr18	67201164	67324803	+	929.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr18-12536
+Merged-chr9-56129878-1	chr9	56075386	56184370	+	1354.599976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-28277
+Merged-chr12-80833204-1	chr12	80771068	80895341	+	1001.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr12-36026
+Merged-chr2-11518940-1	chr2	11483488	11554393	+	835.799988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr2-74307
+Merged-chr6-146474825-1	chr6	146427628	146522022	+	911.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr6-54769
+Merged-chr12-85686795-1	chr12	85660568	85713023	+	850.599976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr12-45632
+Merged-chr8-61427280-1	chr8	61356982	61497579	+	1342.300049	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr8-31712
+Merged-chr1-80732958-1	chr1	80699192	80766724	+	1169.800049	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr1-56315
+Merged-chr19-44281865-1	chr19	44246034	44317697	+	1006.299988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr19-25132
+Merged-chr5-136489543-1	chr5	136410846	136568240	+	1131.000000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr5-46345
+Merged-chr7-110220903-1	chr7	110156927	110284879	+	1021.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr7-48905
+Merged-chr6-108679449-1	chr6	108622617	108736282	+	1499.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr6-58834
+Merged-chr11-97118265-1	chr11	97083522	97153009	+	877.200012	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr11-62720
+Merged-chr13-52864299-1	chr13	52777419	52951179	+	1819.699951	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr13-38218
+Merged-chr16-24470010-1	chr16	24390958	24549063	+	1309.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr16-31698
+Merged-chr11-23753322-1	chr11	23682693	23823952	+	1240.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr11-33241
+Merged-chr11-100835371-1	chr11	100804630	100866113	+	1085.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr11-57292
+Merged-chr7-74486942-1	chr7	74416567	74557317	+	1238.000000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr7-39415
+Merged-chr11-97803428-1	chr11	97765280	97841576	+	912.099976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr11-77299
+Merged-chr8-88308213-1	chr8	88271994	88344433	+	890.000000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr8-39915
+Merged-chr16-45345075-1	chr16	45279712	45410439	+	1309.000000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr16-23767
+Merged-chr11-61669625-1	chr11	61638463	61700788	+	995.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr11-74821
+Merged-chr6-38830566-1	chr6	38784099	38877034	+	862.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr6-45365
+Merged-chr9-46173037-1	chr9	46142648	46203427	+	969.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-36487
+Merged-chr3-59108262-1	chr3	59080431	59136093	+	863.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr3-37553
+Merged-chr2-118525472-1	chr2	118478580	118572365	+	878.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr2-70524
+Merged-chr1-87648911-1	chr1	87607260	87690562	+	909.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr1-56563
+Merged-chr11-119134012-1	chr11	119075268	119192756	+	927.599976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr11-53368
+Merged-chr3-37227419-1	chr3	37118930	37335908	+	3094.000000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr3-45534
+Merged-chr18-4322484-1	chr18	4266286	4378682	+	1125.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr18-9216
+Merged-chr4-154933211-1	chr4	154898023	154968399	+	898.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr4-52452
+Merged-chrX-159722940-1	chrX	159673632	159772248	+	1084.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chrX-8861
+Merged-chr9-64809179-1	chr9	64779820	64838538	+	839.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-3330
+Merged-chr1-144295671-1	chr1	144237061	144354282	+	1193.800049	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr1-52648
+Merged-chr2-160761926-1	chr2	160730530	160793322	+	918.099976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr2-65165
+Merged-chr3-142580324-1	chr3	142520210	142640438	+	1190.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr3-40078
+Merged-chr10-54038805-1	chr10	53985175	54092436	+	1251.199951	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr10-45020
+Merged-chr4-129017130-1	chr4	128962607	129071654	+	1184.099976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr4-16658
+Merged-chr4-156012699-1	chr4	155990236	156035162	+	1210.099976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr4-52599
+Merged-chr2-11633475-1	chr2	11602167	11664784	+	1894.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr2-38858
+Merged-chr6-124909551-1	chr6	124878803	124940299	+	891.200012	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr6-53576
+Merged-chr19-18627825-1	chr19	18582806	18672844	+	925.299988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr19-16044
+Merged-chr5-32094707-1	chr5	32029261	32160153	+	1082.800049	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr5-38885
+Merged-chr2-168538162-1	chr2	168471350	168604975	+	1276.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr2-45334
+Merged-chr6-31155363-1	chr6	31070240	31240486	+	2699.899902	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr6-49882
+Merged-chr3-137970741-1	chr3	137932880	138008603	+	1012.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr3-44313
+Merged-chr8-120726935-1	chr8	120682447	120771424	+	1090.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr8-25209
+Merged-chr5-53484637-1	chr5	53354976	53614298	+	3175.399902	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr5-21358
+Merged-chr19-9055044-1	chr19	9021102	9088987	+	841.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr19-20171
+Merged-chr12-76346197-1	chr12	76306921	76385473	+	976.599976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr12-44749
+Merged-chr4-106966222-1	chr4	106907849	107024596	+	958.200012	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr4-36941
+Merged-chr6-127253845-1	chr6	127234762	127272929	+	913.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr6-48363
+Merged-chr9-35135653-1	chr9	35094908	35176399	+	939.799988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-39456
+Merged-chr4-130921123-1	chr4	130896618	130945628	+	1014.000000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr4-19406
+Merged-chr9-69326895-1	chr9	69289099	69364691	+	940.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-40959
+Merged-chr3-68788727-1	chr3	68740296	68837158	+	940.200012	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr3-28542
+Merged-chr18-62128923-1	chr18	62064412	62193435	+	1191.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr18-18228
+Merged-chr8-86870813-1	chr8	86838028	86903598	+	964.200012	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr8-29555
+Merged-chr1-58721354-1	chr1	58697617	58745092	+	944.700012	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr1-55632
+Merged-chr19-25061674-1	chr19	25042206	25081142	+	853.799988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr19-24415
+Merged-chr16-51686196-1	chr16	51650400	51721992	+	953.000000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr16-29435
+Merged-chr13-44499899-1	chr13	44441542	44558257	+	971.700012	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr13-37546
+Merged-chr3-108871460-1	chr3	108820013	108922908	+	872.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr3-27160
+Merged-chr2-127320713-1	chr2	127300684	127340742	+	1198.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr2-48217
+Merged-chr17-66098528-1	chr17	66046887	66150170	+	845.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr17-39523
+Merged-chr10-28699238-1	chr10	28662024	28736453	+	863.000000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr10-40072
+Merged-chr6-97312975-1	chr6	97271143	97354808	+	1251.099976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr6-47051
+Merged-chr12-111185827-1	chr12	111143134	111228521	+	1004.599976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr12-27576
+Merged-chr4-136131192-1	chr4	136071588	136190797	+	1241.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr4-18131
+Merged-chr1-138588013-1	chr1	138537428	138638598	+	1025.599976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr1-47806
+Merged-chr7-142467475-1	chr7	142435821	142499129	+	1008.000000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr7-13243
+Merged-chr5-105129054-1	chr5	105097609	105160499	+	1030.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr5-21826
+Merged-chr10-58367141-1	chr10	58322843	58411439	+	1143.800049	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr10-24230
+Merged-chr9-120047158-1	chr9	119964283	120130033	+	1682.099976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-58262
+Merged-chr10-44392417-1	chr10	44321911	44462923	+	1339.000000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr10-33817
+Merged-chr7-123354777-1	chr7	123298113	123411442	+	1039.300049	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr7-54801
+Merged-chr11-60142060-1	chr11	60091003	60193117	+	851.799988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr11-27237
+Merged-chr9-46053205-1	chr9	45979321	46127089	+	1654.800049	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-39992
+Merged-chr15-59585008-1	chr15	59507039	59662978	+	1851.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr15-30717
+Merged-chr18-32972780-1	chr18	32938367	33007194	+	875.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr18-8662
+Merged-chr16-84616569-1	chr16	84578863	84654276	+	1132.000000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr16-37742
+Merged-chr4-46571477-1	chr4	46524154	46618801	+	902.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr4-35993
+Merged-chr4-47290467-1	chr4	47247026	47333908	+	937.400024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr4-6451
+Merged-chr9-96744409-1	chr9	96669708	96819110	+	1487.500000	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-34499
+Merged-chr6-91707102-1	chr6	91656467	91757738	+	892.299988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr6-35450
+Merged-chr9-73065373-1	chr9	73038843	73091903	+	956.900024	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr9-50447
+Merged-chr5-147063167-1	chr5	147037811	147088524	+	858.099976	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr5-52538
+Merged-chr10-67510249-1	chr10	67454430	67566069	+	923.299988	AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	1		chr10-56556
+Merged-chr12-69244417-1	chr12	69183316	69305519	+	963.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr12-42376	
+Merged-chr16-91580952-1	chr16	91512365	91649540	+	1084.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr16-6016	
+Merged-chr13-111956387-1	chr13	111892695	112020079	+	889.200012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr13-4569	
+Merged-chr5-137677518-1	chr5	137596350	137758687	+	1293.300049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-40635	
+Merged-chr14-77852942-1	chr14	77794406	77911479	+	938.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr14-23429	
+Merged-chr7-126153257-1	chr7	126105691	126200823	+	787.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr7-40029	
+Merged-chr14-118905804-1	chr14	118840197	118971412	+	804.799988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr14-31408	
+Merged-chr14-120339616-1	chr14	120271989	120407244	+	854.799988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr14-31451	
+Merged-chr8-114939155-1	chr8	114765648	115112663	+	3116.399902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr8-36671	
+Merged-chr8-128423898-1	chr8	128357276	128490521	+	921.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr8-19163	
+Merged-chr16-94218767-1	chr16	94167501	94270034	+	1020.299988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr16-32518	
+Merged-chr11-32024706-1	chr11	31981737	32067675	+	824.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr11-14116	
+Merged-chr16-33725735-1	chr16	33681639	33769832	+	837.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr16-19071	
+Merged-chr3-115965865-1	chr3	115923142	116008588	+	998.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr3-38330	
+Merged-chr5-72790513-1	chr5	72711713	72869313	+	1314.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-16969	
+Merged-chr7-25729374-1	chr7	25606620	25852128	+	2136.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr7-28342	
+Merged-chr16-31024753-1	chr16	30967743	31081763	+	875.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr16-12621	
+Merged-chr15-58170510-1	chr15	58124851	58216169	+	802.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr15-44132	
+Merged-chr14-64907356-1	chr14	64834745	64979967	+	791.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr14-30056	
+Merged-chr8-115187968-1	chr8	115127808	115248128	+	825.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr8-36815	
+Merged-chr2-62399405-1	chr2	62335257	62463553	+	971.299988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr2-59555	
+Merged-chr11-45839500-1	chr11	45780847	45898154	+	1083.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr11-27973	
+Merged-chr5-64484293-1	chr5	64430966	64537621	+	1023.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-43411	
+Merged-chr18-35742789-1	chr18	35692995	35792583	+	888.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr18-21754	
+Merged-chr13-23723554-1	chr13	23683022	23764086	+	790.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr13-11331	
+Merged-chr14-75484737-1	chr14	75398636	75570838	+	1149.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr14-35826	
+Merged-chr14-55610838-1	chr14	55539220	55682457	+	1411.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr14-34231	
+Merged-chr6-30301359-1	chr6	30246792	30355926	+	959.299988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr6-26495	
+Merged-chr5-140242131-1	chr5	140151989	140332273	+	1564.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-47558	
+Merged-chr12-71012716-1	chr12	70967559	71057873	+	821.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr12-26907	
+Merged-chr9-66247533-1	chr9	66185931	66309135	+	1024.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr9-25516	
+Merged-chr5-64899173-1	chr5	64860109	64938238	+	798.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-43566	
+Merged-chr1-143909354-1	chr1	143808098	144010610	+	1273.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr1-56033	
+Merged-chr10-39215156-1	chr10	39161536	39268776	+	874.799988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr10-43587	
+Merged-chr13-43220086-1	chr13	43166613	43273560	+	903.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr13-19551	
+Merged-chr6-22416834-1	chr6	22373796	22459872	+	806.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr6-34505	
+Merged-chr9-21137044-1	chr9	21072875	21201213	+	838.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr9-24050	
+Merged-chr15-81298706-1	chr15	81235704	81361708	+	1074.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr15-40499	
+Merged-chr5-34547617-1	chr5	34500827	34594407	+	870.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-27747	
+Merged-chr10-41606704-1	chr10	41552097	41661311	+	787.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr10-14100	
+Merged-chr11-57670874-1	chr11	57607472	57734277	+	1169.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr11-70563	
+Merged-chr2-73009505-1	chr2	72959010	73060000	+	818.200012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr2-59970	
+Merged-chr9-110676072-1	chr9	110640261	110711884	+	843.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr9-16201	
+Merged-chr4-139239427-1	chr4	139167101	139311754	+	1117.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr4-44125	
+Merged-chr11-100586148-1	chr11	100544875	100627422	+	827.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr11-49160	
+Merged-chr7-31026531-1	chr7	30939163	31113899	+	1681.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr7-36847	
+Merged-chr13-97822077-1	chr13	97739866	97904288	+	940.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr13-38117	
+Merged-chr12-17463579-1	chr12	17372614	17554545	+	1158.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr12-5177	
+Merged-chr15-96624809-1	chr15	96583316	96666302	+	786.200012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr15-27145	
+Merged-chr17-35864370-1	chr17	35803270	35925471	+	1004.299988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr17-41606	
+Merged-chr17-27026395-1	chr17	26968250	27084541	+	880.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr17-40061	
+Merged-chr6-134914800-1	chr6	134873795	134955806	+	812.799988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr6-38846	
+Merged-chr6-145927459-1	chr6	145834839	146020080	+	1050.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr6-53217	
+Merged-chr10-118766718-1	chr10	118703283	118830154	+	819.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr10-47980	
+Merged-chr16-45001218-1	chr16	44956817	45045619	+	839.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr16-26105	
+Merged-chr19-5683927-1	chr19	5635828	5732027	+	827.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr19-17294	
+Merged-chr13-46745744-1	chr13	46689902	46801587	+	990.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr13-26306	
+Merged-chr12-70106091-1	chr12	70053810	70158373	+	901.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr12-36258	
+Merged-chr4-43962165-1	chr4	43931349	43992981	+	779.799988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr4-40303	
+Merged-chr12-76900232-1	chr12	76837453	76963011	+	1159.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr12-1309	
+Merged-chr17-83337646-1	chr17	83267285	83408008	+	1058.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr17-16316	
+Merged-chr2-59483559-1	chr2	59438977	59528141	+	800.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr2-30673	
+Merged-chr6-65590492-1	chr6	65508038	65672947	+	1245.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr6-41463	
+Merged-chr16-3937624-1	chr16	3870674	4004574	+	1035.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr16-27983	
+Merged-chr8-105676507-1	chr8	105594049	105758965	+	1338.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr8-42449	
+Merged-chr19-6991172-1	chr19	6941134	7041210	+	907.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr19-17449	
+Merged-chr6-145143539-1	chr6	145074614	145212464	+	1135.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr6-45501	
+Merged-chr6-149195395-1	chr6	149126864	149263927	+	1022.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr6-53511	
+Merged-chr8-106033792-1	chr8	105983307	106084278	+	956.200012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr8-42566	
+Merged-chr12-113006482-1	chr12	112937321	113075644	+	1182.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr12-8007	
+Merged-chr3-19412953-1	chr3	19366509	19459397	+	800.200012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr3-20138	
+Merged-chr2-25503982-1	chr2	25448896	25559068	+	1105.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr2-66807	
+Merged-chr5-125446311-1	chr5	125388612	125504010	+	871.799988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-46781	
+Merged-chr1-40502561-1	chr1	40460703	40544419	+	853.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr1-39251	
+Merged-chr7-142369284-1	chr7	142334571	142403998	+	914.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr7-35712	
+Merged-chr6-146120750-1	chr6	146070286	146171214	+	873.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr6-45648	
+Merged-chr3-68987773-1	chr3	68929874	69045672	+	993.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr3-16268	
+Merged-chr15-76667077-1	chr15	76606279	76727876	+	850.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr15-26081	
+Merged-chr2-30625712-1	chr2	30587440	30663984	+	896.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr2-14935	
+Merged-chr15-57766929-1	chr15	57692838	57841021	+	979.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr15-22069	
+Merged-chr9-106191037-1	chr9	106148482	106233593	+	779.799988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr9-39219	
+Merged-chr7-101974706-1	chr7	101923392	102026020	+	824.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr7-51798	
+Merged-chr5-122692141-1	chr5	122638275	122746008	+	799.299988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-22894	
+Merged-chr9-42107619-1	chr9	42053224	42162015	+	904.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr9-48802	
+Merged-chr4-135134088-1	chr4	135061324	135206853	+	1413.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr4-51110	
+Merged-chr9-14062132-1	chr9	14005714	14118550	+	858.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr9-47272	
+Merged-chr2-13747644-1	chr2	13697734	13797555	+	800.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr2-49487	
+Merged-chr3-95235379-1	chr3	95174184	95296574	+	1008.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr3-24310	
+Merged-chr5-64355465-1	chr5	64294401	64416529	+	848.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-14907	
+Merged-chr9-21590185-1	chr9	21524920	21655451	+	915.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr9-31287	
+Merged-chr16-4707329-1	chr16	4623632	4791026	+	1178.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr16-10662	
+Merged-chr10-21890798-1	chr10	21780928	22000668	+	1598.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr10-37316	
+Merged-chr11-63997053-1	chr11	63895166	64098940	+	2149.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr11-61744	
+Merged-chr11-86806330-1	chr11	86738948	86873713	+	1042.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr11-48297	
+Merged-chr17-86348807-1	chr17	86297027	86400587	+	862.200012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr17-32736	
+Merged-chr17-86684706-1	chr17	86615927	86753485	+	925.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr17-32782	
+Merged-chr11-51897559-1	chr11	51820740	51974378	+	1190.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr11-69846	
+Merged-chr17-56300336-1	chr17	56251347	56349325	+	785.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr17-27209	
+Merged-chr8-34191442-1	chr8	34139957	34242927	+	994.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr8-29330	
+Merged-chr9-96387705-1	chr9	96322314	96453097	+	1328.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr9-44989	
+Merged-chr15-76290685-1	chr15	76229666	76351705	+	1160.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr15-34252	
+Merged-chr5-65004972-1	chr5	64952163	65057781	+	942.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-37491	
+Merged-chr10-40436031-1	chr10	40341993	40530069	+	1753.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr10-50990	
+Merged-chr2-126633396-1	chr2	126584119	126682673	+	938.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr2-28046	
+Merged-chr9-107586398-1	chr9	107521303	107651493	+	1252.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr9-11408	
+Merged-chr15-78900358-1	chr15	78859217	78941499	+	779.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr15-39994	
+Merged-chr3-89415500-1	chr3	89368249	89462752	+	963.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr3-36503	
+Merged-chr13-37608915-1	chr13	37518866	37698964	+	1227.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr13-34918	
+Merged-chr3-101031137-1	chr3	100951637	101110637	+	1513.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr3-24597	
+Merged-chr12-11260409-1	chr12	11196155	11324664	+	916.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr12-16948	
+Merged-chr19-41934854-1	chr19	41827215	42042494	+	1286.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr19-24323	
+Merged-chr12-28837763-1	chr12	28766978	28908549	+	1261.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr12-35338	
+Merged-chr5-54055050-1	chr5	53994779	54115321	+	893.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-28017	
+Merged-chr7-45103124-1	chr7	45051655	45154593	+	1116.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr7-42545	
+Merged-chr17-21481992-1	chr17	21446778	21517206	+	800.200012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr17-39478	
+Merged-chr17-31061245-1	chr17	31011795	31110696	+	809.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr17-4039	
+Merged-chr8-84158298-1	chr8	84039043	84277554	+	2362.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr8-41484	
+Merged-chr11-97697744-1	chr11	97650352	97745136	+	906.799988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr11-64409	
+Merged-chr5-120664759-1	chr5	120612434	120717085	+	997.799988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-7859	
+Merged-chr15-79911725-1	chr15	79864449	79959002	+	839.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr15-46445	
+Merged-chr17-34967863-1	chr17	34870447	35065279	+	1218.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr17-35430	
+Merged-chr7-24418791-1	chr7	24365061	24472521	+	1443.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr7-7523	
+Merged-chr6-128827899-1	chr6	128782875	128872924	+	1000.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr6-44532	
+Merged-chr13-91449920-1	chr13	91356986	91542854	+	1173.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr13-37527	
+Merged-chr9-20974224-1	chr9	20916797	21031651	+	812.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr9-47647	
+Merged-chr13-20171334-1	chr13	20089975	20252693	+	1240.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr13-8001	
+Merged-chr2-75736123-1	chr2	75679272	75792975	+	1003.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr2-60105	
+Merged-chr5-124486163-1	chr5	124411813	124560514	+	1117.300049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-40094	
+Merged-chr17-23589915-1	chr17	23534470	23645361	+	1060.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr17-39541	
+Merged-chr8-70573110-1	chr8	70506056	70640165	+	1135.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr8-17621	
+Merged-chr5-34204072-1	chr5	34158016	34250128	+	816.299988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-49770	
+Merged-chr10-81360648-1	chr10	81283186	81438110	+	1143.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr10-53689	
+Merged-chr2-25212636-1	chr2	25152177	25273095	+	907.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr2-33801	
+Merged-chr7-45747914-1	chr7	45680838	45814990	+	1097.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr7-49141	
+Merged-chr19-46487203-1	chr19	46438026	46536380	+	1056.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr19-24590	
+Merged-chr9-21348197-1	chr9	21304292	21392103	+	844.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr9-47743	
+Merged-chr11-3310281-1	chr11	3247952	3372611	+	1111.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr11-44647	
+Merged-chr2-26516819-1	chr2	26471938	26561701	+	912.200012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr2-49976	
+Merged-chr6-143125074-1	chr6	143051538	143198611	+	1217.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr6-39198	
+Merged-chr10-78129826-1	chr10	78059574	78200078	+	1023.299988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr10-29885	
+Merged-chr6-41160451-1	chr6	41084910	41235993	+	946.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr6-35129	
+Merged-chr10-19606863-1	chr10	19488005	19725722	+	2129.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr10-28295	
+Merged-chr16-93774246-1	chr16	93711052	93837441	+	874.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr16-759	
+Merged-chr11-96998037-1	chr11	96943409	97052665	+	1058.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr11-48785	
+Merged-chr7-126754823-1	chr7	126695094	126814552	+	1132.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr7-53244	
+Merged-chr12-80096824-1	chr12	80046810	80146839	+	931.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr12-43619	
+Merged-chr7-127012315-1	chr7	126972435	127052196	+	819.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr7-53297	
+Merged-chr9-40393672-1	chr9	40317616	40469728	+	1175.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr9-31806	
+Merged-chr18-73802916-1	chr18	73743864	73861969	+	901.299988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr18-14643	
+Merged-chr14-79285999-1	chr14	79225342	79346656	+	1004.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr14-31035	
+Merged-chr6-91073079-1	chr6	91015459	91130699	+	966.799988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr6-36832	
+Merged-chr11-51615332-1	chr11	51571909	51658755	+	874.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr11-52782	
+Merged-chr5-64694173-1	chr5	64566714	64821633	+	2240.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr5-32350	
+Merged-chr17-32377581-1	chr17	32319967	32435196	+	824.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr17-30105	
+Merged-chr3-88134658-1	chr3	88090802	88178514	+	944.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr3-27421	
+Merged-chr3-129577283-1	chr3	129520757	129633809	+	1018.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr3-15416	
+Merged-chr13-109812304-1	chr13	109776536	109848073	+	793.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr13-24289	
+Merged-chr11-103210283-1	chr11	103130769	103289797	+	1333.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr11-75254	
+Merged-chr3-100521693-1	chr3	100458566	100584820	+	1318.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr3-43417	
+Merged-chr1-86460589-1	chr1	86391326	86529852	+	1250.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr1-62460	
+Merged-chr17-53607440-1	chr17	53557610	53657270	+	781.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr17-15921	
+Merged-chr7-80070083-1	chr7	80014627	80125539	+	1061.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr7-29597	
+Merged-chr16-11463486-1	chr16	11397352	11529620	+	1173.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr16-12282	
+Merged-chr15-82161965-1	chr15	82120921	82203009	+	915.299988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr15-46983	
+Merged-chr15-66489796-1	chr15	66437279	66542313	+	1106.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr15-17415	
+Merged-chr12-112643204-1	chr12	112583234	112703175	+	857.200012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr12-46339	
+Merged-chr12-112842576-1	chr12	112804742	112880410	+	853.700012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt	1	chr12-46386	
+Merged-chr15-64231718-2	chr15	64133163	64346286	+	2002.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-25477	chr15-33938
+Merged-chr7-128382679-2	chr7	128345176	128418607	+	842.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-53570	chr7-49828
+Merged-chr1-43504867-2	chr1	43442559	43565781	+	1675.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-21084	chr1-25910
+Merged-chr9-7858789-2	chr9	7810939	7903655	+	1090.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-18624	chr9-23536
+Merged-chr9-13536930-2	chr9	13414323	13667777	+	2338.200195	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-18652	chr9-13144
+Merged-chr10-117917784-2	chr10	117745580	118122073	+	3428.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-15022	chr10-47428
+Merged-chr14-27312397-2	chr14	27180456	27443360	+	3601.350098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-32975	chr14-24499
+Merged-chr11-11720588-2	chr11	11620466	11847516	+	2828.700195	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-51446	chr11-59015
+Merged-chr7-16349222-2	chr7	16272352	16432461	+	1571.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-36065	chr7-50657
+Merged-chr12-102334065-2	chr12	102270767	102397960	+	1353.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-38420	chr12-20705
+Merged-chr1-87870670-2	chr1	87785184	87945556	+	1490.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-62614	chr1-10535
+Merged-chr4-120993819-2	chr4	120944440	121039912	+	941.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-42596	chr4-28718
+Merged-chr1-161741036-2	chr1	161653759	161832209	+	1731.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-49167	chr1-31701
+Merged-chr6-114853847-2	chr6	114767086	114938549	+	1890.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-43532	chr6-52987
+Merged-chr2-103649598-2	chr2	103565169	103741606	+	2289.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-71107	chr2-70241
+Merged-chr5-107188710-2	chr5	107041202	107292843	+	1567.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-52654	chr5-56255
+Merged-chr1-51525233-2	chr1	51448187	51602996	+	1669.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-45109	chr1-61168
+Merged-chr14-73135088-2	chr14	73015582	73260597	+	1659.149902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-35463	chr14-16927
+Merged-chr1-54854113-2	chr1	54740085	54945550	+	2242.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-34718	chr1-32852
+Merged-chr10-6982766-2	chr10	6952365	7014601	+	1019.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-19184	chr10-35861
+Merged-chr1-88609310-2	chr1	88447366	88728499	+	2972.600098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-46791	chr1-62831
+Merged-chr6-125244887-2	chr6	125211226	125276723	+	1207.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-51596	chr6-15810
+Merged-chr11-48841990-2	chr11	48787392	48883215	+	887.299988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-31581	chr11-54745
+Merged-chr13-101703776-2	chr13	101622291	101768951	+	1355.650024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-32576	chr13-23356
+Merged-chr10-75317032-2	chr10	75259674	75365788	+	1003.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-39142	chr10-50883
+Merged-chr5-142416016-2	chr5	142366572	142465832	+	1163.150024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-12768	chr5-42057
+Merged-chr12-102663846-2	chr12	102577025	102783428	+	1855.649902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-38530	chr12-41266
+Merged-chr7-68236535-2	chr7	68101278	68331204	+	2419.200195	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-25797	chr7-58430
+Merged-chr9-45013434-2	chr9	44952756	45131104	+	1509.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-49182	chr9-39883
+Merged-chr2-173416416-2	chr2	173300043	173549178	+	1796.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-64829	chr2-45468
+Merged-chr11-106153274-2	chr11	106083632	106228083	+	1355.350098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-23671	chr11-37828
+Merged-chr17-26531668-2	chr17	26465172	26619114	+	1453.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-17075	chr17-37314
+Merged-chr19-5837361-2	chr19	5784740	5898606	+	1425.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-19634	chr19-4609
+Merged-chr8-126736385-2	chr8	126548598	126924442	+	5231.350098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-32680	chr8-46682
+Merged-chr14-73370311-2	chr14	73303802	73451498	+	1094.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-35552	chr14-38459
+Merged-chr10-14050572-2	chr10	13964221	14141165	+	2546.649902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-19289	chr10-48430
+Merged-chr11-79078023-2	chr11	79002435	79153280	+	1331.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-42067	chr11-68436
+Merged-chr6-124735076-2	chr6	124656098	124789665	+	1160.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-38180	chr6-24316
+Merged-chr15-73144836-2	chr15	73089832	73188181	+	1417.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-12089	chr15-46755
+Merged-chr3-79200226-2	chr3	79089363	79294557	+	1968.799927	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-35879	chr3-37915
+Merged-chr2-173043426-2	chr2	172963373	173096845	+	1247.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-32945	chr2-73231
+Merged-chr7-28369289-2	chr7	28334733	28405257	+	938.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-48284	chr7-29955
+Merged-chr19-8768787-2	chr19	8695622	8844754	+	1139.600098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-7776	chr19-21930
+Merged-chr3-95691035-2	chr3	95609591	95769594	+	2028.350098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-31849	chr3-26721
+Merged-chr3-60522156-2	chr3	60460246	60617841	+	1654.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-18371	chr3-24068
+Merged-chr5-105619792-2	chr5	105483701	105755033	+	3127.649902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-44848	chr5-40376
+Merged-chr8-83757259-2	chr8	83714791	83799933	+	1202.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-2913	chr8-39652
+Merged-chr16-78552090-2	chr16	78476339	78606698	+	946.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-27058	chr16-9855
+Merged-chr3-22043178-3	chr3	21884222	22205525	+	1890.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr3-39976	chr3-45100,chr3-21891
+Merged-chr10-39435058-2	chr10	39291698	39547508	+	2554.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-8969	chr10-9234
+Merged-chr15-97796313-2	chr15	97742346	97850621	+	1010.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-48133	chr15-39270
+Merged-chr14-74880336-2	chr14	74797276	74954262	+	1417.449951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-35632	chr14-34450
+Merged-chr4-63391531-2	chr4	63343780	63442546	+	1123.849976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-26869	chr4-25940
+Merged-chr6-87510367-2	chr6	87462660	87556862	+	1290.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-27824	chr6-51741
+Merged-chr14-40942912-2	chr14	40902738	40976129	+	1171.150024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-22074	chr14-22666
+Merged-chr12-25260352-2	chr12	25092457	25414333	+	2808.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-41012	chr12-10582
+Merged-chr8-72169998-2	chr8	72106074	72222108	+	1205.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-40707	chr8-19002
+Merged-chr3-52658078-2	chr3	52555357	52773002	+	1425.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-9109	chr3-37411
+Merged-chr1-80630673-2	chr1	80579985	80678766	+	1052.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-53333	chr1-62319
+Merged-chrX-167133688-2	chrX	167019841	167234023	+	1753.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chrX-1511	chrX-6506
+Merged-chr11-95369621-2	chr11	95324622	95426124	+	1063.850098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-74160	chr11-69294
+Merged-chr16-94618682-2	chr16	94546217	94699383	+	919.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-32610	chr16-34001
+Merged-chr17-31799573-2	chr17	31718889	31876157	+	1424.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-22714	chr17-37936
+Merged-chr12-80266393-2	chr12	80198724	80369951	+	1152.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-37185	chr12-22134
+Merged-chr8-81580585-2	chr8	81463878	81667900	+	1354.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-35281	chr8-35521
+Merged-chr19-32231043-2	chr19	32106931	32345507	+	2947.600098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-23738	chr19-20739
+Merged-chr18-75372781-2	chr18	75205162	75541498	+	2832.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr18-20044	chr18-16821
+Merged-chr1-165688742-2	chr1	165634719	165742240	+	1327.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-49432	chr1-34370
+Merged-chr11-115476728-2	chr11	115403286	115537165	+	1138.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-34235	chr11-44777
+Merged-chr15-97405012-3	chr15	97311265	97538003	+	1612.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr15-16279	chr15-27041,chr15-43488
+Merged-chr11-52294728-2	chr11	52224053	52368634	+	2027.850098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-46291	chr11-50278
+Merged-chr13-63263848-2	chr13	63168176	63342505	+	1445.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-36839	chr13-43507
+Merged-chr14-75200760-2	chr14	75166960	75239985	+	1124.449951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-35763	chr14-34554
+Merged-chr17-50556770-2	chr17	50441910	50685098	+	1462.850098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-26875	chr17-38933
+Merged-chr19-9937777-2	chr19	9874058	10000669	+	989.849976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-26210	chr19-20198
+Merged-chr15-59046851-2	chr15	58975048	59108376	+	1034.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-44209	chr15-40975
+Merged-chr1-82831662-2	chr1	82787506	82878383	+	1045.350098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-53418	chr1-39155
+Merged-chr5-140602614-2	chr5	140556928	140663938	+	1182.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-23487	chr5-52095
+Merged-chr15-78528944-2	chr15	78422525	78626673	+	2261.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-20298	chr15-34616
+Merged-chr3-88540010-2	chr3	88484017	88636681	+	1253.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-42435	chr3-47121
+Merged-chr10-99218656-2	chr10	99165516	99270327	+	1000.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-47410	chr10-35255
+Merged-chr5-103752704-2	chr5	103691675	103816786	+	1016.100037	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-1619	chr5-4269
+Merged-chr11-53801223-2	chr11	53735309	53872525	+	1742.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-6121	chr11-60405
+Merged-chr2-172403324-2	chr2	172359939	172442032	+	952.549988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-75588	chr2-65827
+Merged-chr11-34746768-2	chr11	34693557	34799317	+	1349.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-59974	chr11-54504
+Merged-chr12-17742309-2	chr12	17689148	17795297	+	1141.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-34844	chr12-30913
+Merged-chr12-33159093-2	chr12	33110995	33219199	+	939.850037	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-22836	chr12-16776
+Merged-chr4-129786105-2	chr4	129731493	129840947	+	1276.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-13407	chr4-57044
+Merged-chr4-133143713-2	chr4	133046141	133213149	+	1176.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-37487	chr4-37667
+Merged-chr14-19967733-2	chr14	19889855	20035722	+	897.549988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-11847	chr14-24222
+Merged-chr11-116397008-2	chr11	116336975	116446073	+	1194.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-66359	chr11-48697
+Merged-chr17-73004709-2	chr17	72889629	73201431	+	2598.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-37309	chr17-32200
+Merged-chr11-115174198-2	chr11	115119746	115248196	+	1084.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-43942	chr11-48595
+Merged-chr10-80060904-2	chr10	79981182	80124294	+	1395.600098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-39536	chr10-41579
+Merged-chr11-117298185-2	chr11	117240263	117357799	+	2016.350098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-50315	chr11-35320
+Merged-chr15-77858685-2	chr15	77773286	77971872	+	2138.399902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-45985	chr15-47175
+Merged-chr8-94403987-2	chr8	94337818	94471061	+	1776.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-5659	chr8-27063
+Merged-chr8-88669152-2	chr8	88623054	88720430	+	1048.650024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-23414	chr8-35926
+Merged-chr5-107730462-2	chr5	107675611	107788408	+	1128.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-19617	chr5-36790
+Merged-chr10-111207154-2	chr10	111156002	111262364	+	1023.200012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-47554	chr10-35326
+Merged-chr11-54761676-2	chr11	54683434	54834044	+	1198.149902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-70337	chr11-66797
+Merged-chr19-34602720-2	chr19	34543466	34662387	+	1491.649902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-23997	chr19-30174
+Merged-chr18-89232898-2	chr18	89191793	89273933	+	853.049988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr18-7894	chr18-12913
+Merged-chr16-49840584-3	chr16	49748094	50000225	+	1900.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr16-16917	chr16-32754,chr16-14124
+Merged-chr17-34145468-2	chr17	34069297	34219067	+	1545.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-41344	chr17-28191
+Merged-chr16-52085248-2	chr16	51988128	52203006	+	2336.399902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-16995	chr16-37101
+Merged-chr4-129548611-2	chr4	129495691	129587809	+	1001.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-21501	chr4-28908
+Merged-chr19-34236457-2	chr19	34162157	34313613	+	1282.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-14423	chr19-14016
+Merged-chr10-68223236-2	chr10	68080479	68304245	+	1351.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-26041	chr10-56732
+Merged-chr16-55928557-2	chr16	55869556	55996772	+	1059.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-31324	chr16-37252
+Merged-chr3-89890150-2	chr3	89858891	89923945	+	995.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-42640	chr3-31675
+Merged-chr8-117311120-2	chr8	117224752	117408177	+	1410.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-11508	chr8-4086
+Merged-chr4-11119688-2	chr4	11073721	11165332	+	1210.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-29629	chr4-42874
+Merged-chr15-81092524-2	chr15	81000591	81219579	+	1609.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-40414	chr15-34930
+Merged-chr18-39042222-2	chr18	38992350	39094891	+	982.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr18-21963	chr18-14658
+Merged-chr11-55048348-3	chr11	54917136	55159002	+	1828.466675	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr11-70417	chr11-66855,chr11-23449
+Merged-chr6-90726660-2	chr6	90653254	90809870	+	1248.300049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-42529	chr6-11152
+Merged-chr16-92744423-2	chr16	92608309	92844062	+	2084.649902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-27468	chr16-30192
+Merged-chr6-54102227-2	chr6	54031697	54172675	+	969.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-18695	chr6-56508
+Merged-chr17-28468074-2	chr17	28407251	28532418	+	1007.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-29583	chr17-30551
+Merged-chr9-109041237-2	chr9	108983196	109096312	+	1241.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-45650	chr9-46269
+Merged-chr9-66902279-2	chr9	66849301	66948969	+	878.299988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-44088	chr9-55762
+Merged-chr4-134101897-2	chr4	134058062	134137133	+	1051.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-37674	chr4-24751
+Merged-chr6-129250448-2	chr6	129157268	129334285	+	2799.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-38600	chr6-53888
+Merged-chr19-29204514-2	chr19	29128646	29274974	+	1253.849976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-9007	chr19-16140
+Merged-chr11-75990271-2	chr11	75914230	76087516	+	1360.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-54536	chr11-61663
+Merged-chr11-117882324-3	chr11	117740176	118020202	+	1544.066650	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr11-66567	chr11-71205,chr11-48833
+Merged-chr11-96476819-2	chr11	96435024	96526052	+	934.950012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-18618	chr11-52073
+Merged-chr9-116244271-3	chr9	116058177	116406568	+	2746.833252	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr9-53625	chr9-51905,chr9-13991
+Merged-chr8-36138978-2	chr8	36081817	36197515	+	1276.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-39674	chr8-38404
+Merged-chr3-126675015-2	chr3	126573469	126771995	+	1704.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-33178	chr3-17123
+Merged-chr3-89208234-2	chr3	89163699	89253591	+	841.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-21181	chr3-10934
+Merged-chr10-42891376-2	chr10	42816106	42968739	+	2026.650024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-38143	chr10-55529
+Merged-chr1-13301492-2	chr1	13214664	13390211	+	1365.150024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-29838	chr1-66895
+Merged-chr2-32052864-2	chr2	32008269	32088730	+	1027.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-67875	chr2-42785
+Merged-chr7-90047269-2	chr7	89996985	90100143	+	1176.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-59192	chr7-39922
+Merged-chr3-52854501-2	chr3	52785569	52907785	+	999.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-41170	chr3-37453
+Merged-chr11-34045803-2	chr11	33990863	34122337	+	1501.449951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-69043	chr11-73103
+Merged-chr1-171949509-2	chr1	171882686	172027813	+	1474.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-37832	chr1-73478
+Merged-chr4-40825234-2	chr4	40757250	40911257	+	1556.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-40094	chr4-39305
+Merged-chr6-54810851-2	chr6	54698898	54975770	+	2485.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-18720	chr6-41661
+Merged-chr2-165924461-3	chr2	165787803	166056802	+	1607.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr2-63887	chr2-59054,chr2-65391
+Merged-chr4-6886538-2	chr4	6724298	6991840	+	1728.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-25705	chr4-32364
+Merged-chr15-6578503-2	chr15	6519254	6648025	+	1745.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-36602	chr15-14555
+Merged-chr4-88008913-2	chr4	87815832	88170365	+	2076.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-48170	chr4-55158
+Merged-chr10-7826530-2	chr10	7780289	7860180	+	1239.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-42167	chr10-5917
+Merged-chr14-60738591-2	chr14	60688947	60785374	+	1507.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-34578	chr14-37626
+Merged-chr7-102299076-2	chr7	102198852	102402047	+	1814.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-39212	chr7-53990
+Merged-chr11-115644607-2	chr11	115563920	115718156	+	1316.849976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-17123	chr11-44795
+Merged-chr5-122262201-2	chr5	122202159	122324665	+	1358.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-34289	chr5-57377
+Merged-chr6-140636534-2	chr6	140593261	140724683	+	1008.200012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-45166	chr6-48943
+Merged-chr8-86720805-2	chr8	86617624	86822378	+	1132.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-35712	chr8-19228
+Merged-chr6-125464144-2	chr6	125411099	125511915	+	908.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-33197	chr6-9360
+Merged-chr9-63698886-2	chr9	63628694	63765473	+	1588.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-37830	chr9-49779
+Merged-chr18-82518917-2	chr18	82450380	82589296	+	1812.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr18-20509	chr18-26976
+Merged-chr4-101222852-2	chr4	101146384	101329213	+	1902.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-41727	chr4-49776
+Merged-chr1-136644669-2	chr1	136524896	136738544	+	1597.649902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-48312	chr1-57920
+Merged-chr5-134270395-2	chr5	134165186	134374693	+	1830.149902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-30228	chr5-41582
+Merged-chr1-74291119-2	chr1	74140630	74398381	+	1460.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-61818	chr1-35874
+Merged-chr8-3375206-2	chr8	3308339	3449719	+	1084.650024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-11782	chr8-37543
+Merged-chr1-173453887-2	chr1	173404475	173511262	+	874.150024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-37915	chr1-44414
+Merged-chr2-132032399-2	chr2	131985389	132080415	+	1187.850098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-62324	chr2-71409
+Merged-chr15-36380237-2	chr15	36261092	36499960	+	2760.450195	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-24734	chr15-40359
+Merged-chr1-165819557-2	chr1	165763440	165882784	+	1769.350098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-8412	chr1-34384
+Merged-chr3-131164095-2	chr3	131085131	131235917	+	1604.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-33346	chr3-10536
+Merged-chr11-11542694-2	chr11	11496354	11588767	+	1515.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-9059	chr11-49342
+Merged-chr5-123013215-2	chr5	122965602	123059429	+	1072.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-34398	chr5-45843
+Merged-chr11-98946554-2	chr11	98898936	98991274	+	936.650024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-74786	chr11-77486
+Merged-chr17-6770615-2	chr17	6722973	6835755	+	1156.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-21715	chr17-24968
+Merged-chr17-7903005-2	chr17	7852035	7946150	+	1171.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-21758	chr17-27316
+Merged-chr12-69473963-2	chr12	69355267	69596089	+	2638.049805	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-36150	chr12-39365
+Merged-chr4-149687769-2	chr4	149645715	149737134	+	1336.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-52259	chr4-58540
+Merged-chr4-102586701-2	chr4	102483665	102657497	+	1553.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-41845	chr4-36863
+Merged-chr7-141043760-2	chr7	140982075	141110068	+	968.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-31302	chr7-62318
+Merged-chr8-116636749-2	chr8	116581018	116694295	+	976.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-31831	chr8-27492
+Merged-chr1-193225507-2	chr1	193103136	193388552	+	2252.399902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-68403	chr1-74692
+Merged-chr5-96942245-2	chr5	96848097	97039610	+	1833.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-51973	chr5-49665
+Merged-chr4-150559768-2	chr4	150486274	150626273	+	1175.300049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-12352	chr4-52289
+Merged-chr1-131132839-2	chr1	130987834	131210567	+	1697.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-64430	chr1-52116
+Merged-chr14-54169707-2	chr14	54034330	54261717	+	6576.649902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-29298	chr14-30118
+Merged-chr12-99420314-2	chr12	99185683	99701158	+	3312.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-24260	chr12-36553
+Merged-chr4-149897813-2	chr4	149838461	149958783	+	1012.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-52340	chr4-52208
+Merged-chr11-21157932-2	chr11	21071333	21270359	+	1528.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-45320	chr11-72520
+Merged-chr1-52078013-2	chr1	51995188	52169854	+	1823.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-60451	chr1-68172
+Merged-chr19-8960435-2	chr19	8918292	9003307	+	1211.300049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-10896	chr19-23889
+Merged-chr12-107948875-2	chr12	107874111	108006765	+	1521.600098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-45840	chr12-20862
+Merged-chr12-85456540-2	chr12	85414452	85497716	+	848.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-44242	chr12-7619
+Merged-chr17-28237864-2	chr17	28169919	28315701	+	980.950012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-40280	chr17-25422
+Merged-chr17-87329300-2	chr17	87281823	87376773	+	960.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-6568	chr17-36326
+Merged-chr8-122985264-2	chr8	122893393	123085869	+	1998.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-43987	chr8-46375
+Merged-chr11-106632897-2	chr11	106350368	106790166	+	3340.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-65339	chr11-63483
+Merged-chr6-108514377-2	chr6	108407621	108608538	+	1954.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-37435	chr6-39151
+Merged-chr11-58184927-2	chr11	58092720	58239696	+	1340.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-61310	chr11-74520
+Merged-chr10-60348066-2	chr10	60249729	60411774	+	1628.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-38583	chr10-40911
+Merged-chr17-84159700-2	chr17	83764594	84448930	+	5655.850098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-44317	chr17-36059
+Merged-chr11-86596576-2	chr11	86512599	86658167	+	1744.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-73398	chr11-68831
+Merged-chr2-174612407-2	chr2	174555569	174655725	+	996.449951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-42663	chr2-59639
+Merged-chr6-134190798-2	chr6	134019494	134420469	+	3822.450195	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-33472	chr6-33597
+Merged-chr5-124039547-2	chr5	123964450	124095722	+	1397.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-54524	chr5-57644
+Merged-chr19-10773017-2	chr19	10686777	10845153	+	2427.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-22915	chr19-10145
+Merged-chr15-86053301-2	chr15	85956063	86131141	+	1734.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-40903	chr15-38878
+Merged-chr15-74963139-2	chr15	74891764	75034412	+	2636.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-39429	chr15-37923
+Merged-chr11-46386472-2	chr11	46277467	46488982	+	2551.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-69461	chr11-73509
+Merged-chr14-79517217-2	chr14	79468247	79564576	+	1487.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-26975	chr14-38925
+Merged-chr15-100696024-2	chr15	100598196	100766757	+	1715.350098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-27467	chr15-43785
+Merged-chr6-120108192-2	chr6	120006511	120209161	+	1780.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-17523	chr6-20897
+Merged-chr11-98501696-2	chr11	98437845	98565521	+	1778.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-33471	chr11-18157
+Merged-chr8-81793469-2	chr8	81687132	81905789	+	2742.149902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-30457	chr8-44270
+Merged-chr12-86852707-2	chr12	86784194	86924165	+	1612.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-32390	chr12-40604
+Merged-chr1-160022685-2	chr1	159951934	160090488	+	2056.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-56614	chr1-64988
+Merged-chr1-128662298-3	chr1	128527298	128837737	+	1818.733276	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr1-55042	chr1-71105,chr1-47323
+Merged-chr2-58146601-2	chr2	58089813	58203604	+	2044.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-34749	chr2-62077
+Merged-chr2-35456243-2	chr2	35397277	35511755	+	1434.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-58786	chr2-39590
+Merged-chr2-22798593-2	chr2	22740977	22876140	+	1373.850098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-57197	chr2-74741
+Merged-chr16-43638910-2	chr16	43541432	43730319	+	1037.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-22349	chr16-36538
+Merged-chr2-167351176-2	chr2	167312999	167388868	+	874.049988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-22761	chr2-45225
+Merged-chr8-13631761-2	chr8	13548286	13717581	+	2026.449951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-38547	chr8-30955
+Merged-chr13-45896879-2	chr13	45812954	45977091	+	1638.700073	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-30418	chr13-42516
+Merged-chr9-123959622-2	chr9	123923093	123997612	+	1107.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-40526	chr9-20111
+Merged-chr12-16059966-3	chr12	15875004	16239160	+	2051.100098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr12-40358	chr12-42664,chr12-42729
+Merged-chr3-101268270-2	chr3	101191154	101312487	+	1324.650024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-21680	chr3-24792
+Merged-chr18-50038638-2	chr18	49978670	50098716	+	1494.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr18-9359	chr18-22469
+Merged-chr18-80661521-2	chr18	80579142	80746086	+	1938.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr18-12960	chr18-26845
+Merged-chr1-92086714-2	chr1	91935044	92251366	+	2507.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-63068	chr1-70259
+Merged-chr1-60883604-2	chr1	60702272	61085189	+	3513.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-52667	chr1-55749
+Merged-chr12-73716191-2	chr12	73564988	73915068	+	4576.849609	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-36447	chr12-28854
+Merged-chr5-124210117-2	chr5	124150002	124277302	+	982.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-54606	chr5-45988
+Merged-chr3-9816362-2	chr3	9747787	9899899	+	1277.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-17776	chr3-30327
+Merged-chr3-69169707-2	chr3	69107204	69235498	+	1169.150024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-41697	chr3-46491
+Merged-chr5-140958807-2	chr5	140849063	141062891	+	1583.650024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-41029	chr5-46725
+Merged-chr11-30160230-2	chr11	30101300	30217693	+	1209.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-45531	chr11-72840
+Merged-chr1-155101701-2	chr1	155027892	155175494	+	1757.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-12758	chr1-37061
+Merged-chr13-30758573-2	chr13	30543831	30988066	+	3715.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-34520	chr13-26621
+Merged-chr2-167949787-2	chr2	167887944	168009996	+	1387.650024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-22801	chr2-9370
+Merged-chr7-73551415-2	chr7	73456480	73640478	+	2383.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-50027	chr7-43126
+Merged-chr11-107410237-2	chr11	107328517	107493696	+	1826.300049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-65577	chr11-52745
+Merged-chr2-60827808-2	chr2	60737356	60889095	+	950.299988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-34856	chr2-68934
+Merged-chr16-91446806-2	chr16	91354814	91501270	+	1374.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-10413	chr16-12291
+Merged-chr6-99246895-2	chr6	98981347	99464575	+	7079.650391	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-13653	chr6-32665
+Merged-chr12-108647811-2	chr12	108600909	108690285	+	1516.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-16550	chr12-30235
+Merged-chr10-12820364-2	chr10	12709570	12894082	+	1353.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-49126	chr10-32970
+Merged-chr10-62528840-2	chr10	62500208	62557282	+	902.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-38748	chr10-41018
+Merged-chr10-93148306-2	chr10	93066011	93229209	+	1513.449951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-14710	chr10-58064
+Merged-chr5-107957221-2	chr5	107917271	108001550	+	1058.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-45182	chr5-18711
+Merged-chr2-158702537-2	chr2	158641479	158768844	+	1369.650024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-54831	chr2-72351
+Merged-chr9-41112610-2	chr9	41026375	41194394	+	1686.100098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-48702	chr9-53824
+Merged-chr5-112278479-2	chr5	112219944	112348881	+	1178.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-53146	chr5-33685
+Merged-chr1-138213071-2	chr1	138085128	138348655	+	3084.450195	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-36856	chr1-71853
+Merged-chr17-5112419-2	chr17	4979809	5338971	+	1792.350098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-16635	chr17-27164
+Merged-chr17-29448077-2	chr17	29339693	29537284	+	2063.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-40582	chr17-42044
+Merged-chr13-44780533-2	chr13	44711803	44852127	+	960.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-22630	chr13-37602
+Merged-chr3-106492688-2	chr3	106447253	106573756	+	1196.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-37890	chr3-48405
+Merged-chr10-96479748-5	chr10	96097789	96802208	+	3544.159912	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	5	chr10-54740	chr10-46851,chr10-24957,chr10-24986,chr10-47035
+Merged-chr14-25531891-2	chr14	25364071	25663257	+	3200.149902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-21521	chr14-32320
+Merged-chr2-43771030-2	chr2	43722936	43822791	+	1310.399902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-58971	chr2-29129
+Merged-chr5-62778229-2	chr5	62680856	62868038	+	1112.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-14884	chr5-35813
+Merged-chr3-106805205-2	chr3	106768861	106844929	+	951.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-44207	chr3-24954
+Merged-chr2-73463777-2	chr2	73424755	73497725	+	1195.849976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-45390	chr2-40025
+Merged-chr12-107177221-2	chr12	107113533	107269611	+	1976.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-28628	chr12-30106
+Merged-chr3-107069015-2	chr3	107029516	107111145	+	951.849976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-44248	chr3-43405
+Merged-chr13-49263876-2	chr13	49178081	49326948	+	1295.649902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-30672	chr13-42747
+Merged-chr2-3688875-2	chr2	3566041	3781574	+	2268.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-65316	chr2-66242
+Merged-chr18-65372451-2	chr18	65297347	65446141	+	2104.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr18-9586	chr18-22943
+Merged-chr6-136944251-2	chr6	136899115	136981862	+	921.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-33774	chr6-54362
+Merged-chr6-70808876-2	chr6	70709514	70884599	+	1169.849976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-8554	chr6-9105
+Merged-chr9-45260115-2	chr9	45174440	45331586	+	1553.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-36885	chr9-54311
+Merged-chr4-155191245-2	chr4	155110074	155254233	+	1438.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-52775	chr4-42441
+Merged-chr5-142917201-2	chr5	142877273	142975081	+	956.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-30840	chr5-58818
+Merged-chr4-59251965-2	chr4	59135670	59380597	+	2878.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-40794	chr4-54463
+Merged-chr7-28803240-2	chr7	28764771	28850858	+	1015.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-55846	chr7-46286
+Merged-chr8-25619328-2	chr8	25557211	25664371	+	1024.850098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-17229	chr8-42512
+Merged-chr4-123542159-2	chr4	123497374	123589515	+	968.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-36856	chr4-56685
+Merged-chr18-56437690-2	chr18	56366336	56479884	+	1013.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr18-14074	chr18-20128
+Merged-chr19-11460540-3	chr19	11339921	11612730	+	2695.033203	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr19-17770	chr19-24078,chr19-24111
+Merged-chr6-117896200-2	chr6	117862872	117938010	+	974.799988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-37819	chr6-59314
+Merged-chr7-132738053-2	chr7	132655932	132825600	+	2156.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-62234	chr7-3064
+Merged-chr11-109398528-2	chr11	109325699	109496613	+	1414.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-65782	chr11-70585
+Merged-chr7-80393509-2	chr7	80287542	80458987	+	1181.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-38365	chr7-24297
+Merged-chr12-110497604-2	chr12	110436899	110547044	+	1076.300049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-39166	chr12-30281
+Merged-chr6-113671096-2	chr6	113604285	113749658	+	1274.849976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-12297	chr6-22440
+Merged-chr11-108228400-2	chr11	108074097	108344389	+	2156.600098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-49809	chr11-78411
+Merged-chr11-75226689-2	chr11	75152577	75296925	+	975.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-72124	chr11-31703
+Merged-chr9-44020710-2	chr9	43973883	44054652	+	994.300049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-48911	chr9-36241
+Merged-chr13-112419464-2	chr13	112331474	112512030	+	2147.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-38840	chr13-28648
+Merged-chr19-53482101-2	chr19	53387423	53579355	+	2541.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-21705	chr19-27921
+Merged-chr8-119814299-2	chr8	119770114	119867745	+	1174.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-21280	chr8-33279
+Merged-chr1-36282866-2	chr1	36224414	36347815	+	1379.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-59431	chr1-41481
+Merged-chr10-93329731-2	chr10	93242115	93457949	+	1680.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-34973	chr10-51914
+Merged-chr4-145260204-2	chr4	145177371	145361594	+	1879.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-15390	chr4-34903
+Merged-chr8-111577329-2	chr8	111490102	111667508	+	1884.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-42836	chr8-22937
+Merged-chr13-117228396-2	chr13	117193539	117263960	+	1009.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-33239	chr13-40196
+Merged-chr1-91069948-2	chr1	91025252	91113980	+	1399.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-31415	chr1-70160
+Merged-chr1-180334935-2	chr1	180222396	180435998	+	2903.450195	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-67481	chr1-59409
+Merged-chr15-62152538-2	chr15	62025269	62287681	+	2768.850098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-22267	chr15-41282
+Merged-chr6-142936917-2	chr6	142908362	142965475	+	1078.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-25969	chr6-28722
+Merged-chr7-80850468-2	chr7	80752822	81023479	+	1960.200073	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-38476	chr7-28449
+Merged-chr8-22738723-2	chr8	22630839	22820011	+	1667.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-38912	chr8-37932
+Merged-chr3-103863556-2	chr3	103736049	103933929	+	1603.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-32443	chr3-27005
+Merged-chr9-14944479-2	chr9	14859967	15076523	+	1556.449951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-40960	chr9-38973
+Merged-chr1-85711870-2	chr1	85641320	85778813	+	1449.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-27512	chr1-69672
+Merged-chr15-53280014-2	chr15	53207730	53352372	+	1097.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-43869	chr15-40758
+Merged-chr1-53841161-2	chr1	53746011	53946079	+	2086.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-39549	chr1-68359
+Merged-chr1-37508622-2	chr1	37466255	37552130	+	922.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-51476	chr1-20764
+Merged-chr11-99146986-2	chr11	99010315	99255864	+	2533.600098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-37989	chr11-37618
+Merged-chr16-76333922-2	chr16	76282978	76380303	+	1022.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-17295	chr16-15533
+Merged-chr8-14987242-2	chr8	14931639	15043037	+	1655.150024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-33347	chr8-42238
+Merged-chr8-72325809-2	chr8	72239065	72422116	+	1835.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-34978	chr8-43903
+Merged-chr2-29671452-2	chr2	29606660	29732639	+	2007.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-8630	chr2-46410
+Merged-chr9-14231941-2	chr9	14128434	14314771	+	1289.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-35479	chr9-42892
+Merged-chr14-54425488-2	chr14	54350687	54500477	+	1093.649902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-13822	chr14-17917
+Merged-chr11-118193586-2	chr11	118084028	118293728	+	2481.399902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-57955	chr11-64329
+Merged-chr2-166690512-2	chr2	166542930	166827275	+	2527.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-48065	chr2-32712
+Merged-chr11-46097287-2	chr11	46053282	46145647	+	1145.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-45978	chr11-66160
+Merged-chr6-41537435-2	chr6	41492695	41588147	+	2011.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-16467	chr6-27063
+Merged-chr2-32533546-2	chr2	32485373	32590181	+	1414.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-68007	chr2-68012
+Merged-chr13-5803350-2	chr13	5702417	5915809	+	2158.649902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-33381	chr13-32076
+Merged-chr1-134079700-2	chr1	134043379	134112837	+	1068.150024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-55533	chr1-71579
+Merged-chr2-18939129-2	chr2	18849931	19009012	+	1882.600098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-33640	chr2-67001
+Merged-chr11-69075210-2	chr11	69031579	69134395	+	1067.300049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-53996	chr11-67638
+Merged-chr3-115759084-2	chr3	115638229	115907838	+	2919.450195	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-44530	chr3-35640
+Merged-chr3-105812176-2	chr3	105727405	105911271	+	1275.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-32573	chr3-48339
+Merged-chr10-19087693-2	chr10	18914668	19243606	+	3471.300049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-49539	chr10-54228
+Merged-chr15-55839971-2	chr15	55787264	55911131	+	1066.449951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-43967	chr15-36803
+Merged-chr11-88564566-2	chr11	88410735	88721079	+	2635.200195	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-48436	chr11-76733
+Merged-chr12-100935451-3	chr12	100835948	101029665	+	1721.566650	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr12-4488	chr12-22524,chr12-33059
+Merged-chr1-106613732-2	chr1	106508038	106717388	+	3231.399902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-22000	chr1-31053
+Merged-chr2-153271323-2	chr2	153161174	153364832	+	1830.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-73650	chr2-58572
+Merged-chr15-80669266-3	chr15	80485100	80961428	+	2735.466553	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr15-26469	chr15-26591,chr15-47666
+Merged-chr2-170182217-2	chr2	170103292	170267475	+	2123.399902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-25736	chr2-82027
+Merged-chr7-63984319-2	chr7	63875834	64106730	+	3170.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-29078	chr7-58102
+Merged-chr9-61710163-2	chr9	61618854	61796743	+	1405.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-19687	chr9-55221
+Merged-chr7-101092364-2	chr7	101041310	101143228	+	999.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-26601	chr7-22720
+Merged-chr16-57498292-2	chr16	57378852	57607584	+	1721.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-22933	chr16-29671
+Merged-chr8-35634090-2	chr8	35584586	35685053	+	1007.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-25555	chr8-38357
+Merged-chr4-133703842-2	chr4	133649809	133757895	+	1128.150024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-43540	chr4-24712
+Merged-chr5-37079035-2	chr5	37036585	37122165	+	1012.450012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-32010	chr5-29762
+Merged-chr15-9582255-2	chr15	9504640	9649967	+	1279.150024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-42469	chr15-44270
+Merged-chr1-39970766-2	chr1	39886063	40092546	+	1696.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-51673	chr1-45448
+Merged-chr2-93443450-2	chr2	93415628	93471345	+	1111.399902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-40199	chr2-40298
+Merged-chr6-136497151-2	chr6	136423268	136561940	+	1476.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-52519	chr6-44199
+Merged-chr6-39337227-2	chr6	39226407	39420766	+	1373.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-40508	chr6-50291
+Merged-chr8-46828450-2	chr8	46595570	46953567	+	2449.649902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-29606	chr8-17413
+Merged-chr12-79727435-2	chr12	79599488	79858196	+	2339.149902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-43428	chr12-35862
+Merged-chr3-52307428-2	chr3	52259127	52355126	+	926.849976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-35135	chr3-25994
+Merged-chr10-122768780-2	chr10	122697393	122830944	+	1342.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-41614	chr10-59620
+Merged-chr4-62643988-2	chr4	62583515	62710197	+	1594.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-47680	chr4-33282
+Merged-chr2-152813646-2	chr2	152767833	152886461	+	930.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-32202	chr2-64730
+Merged-chr11-87722562-2	chr11	87662639	87771020	+	1628.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-16619	chr11-76640
+Merged-chr17-51948206-3	chr17	51743394	52250658	+	3346.333496	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr17-23504	chr17-39007,chr17-35143
+Merged-chr4-133844648-2	chr4	133774858	133911444	+	982.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-7712	chr4-57492
+Merged-chr7-83631410-2	chr7	83564844	83687787	+	1410.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-14774	chr7-59381
+Merged-chr16-24196346-2	chr16	24109120	24275997	+	1006.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-29535	chr16-19322
+Merged-chr11-22831969-2	chr11	22754739	22909666	+	1812.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-12611	chr11-59355
+Merged-chr1-184012280-2	chr1	183924120	184084692	+	1711.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-38299	chr1-53948
+Merged-chr12-12293368-2	chr12	12261640	12325462	+	939.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-4647	chr12-34098
+Merged-chr8-25098370-2	chr8	25047960	25149484	+	987.549988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-33606	chr8-34262
+Merged-chr9-107298828-2	chr9	107248503	107356137	+	1626.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-34144	chr9-57287
+Merged-chr5-100596147-2	chr5	100471415	100675196	+	1748.550049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-52130	chr5-49819
+Merged-chr15-64045493-2	chr15	63976053	64115790	+	1709.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-38629	chr15-46186
+Merged-chr5-118630843-2	chr5	118556955	118718075	+	848.950012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-53778	chr5-45600
+Merged-chr2-11208896-2	chr2	11112986	11297283	+	3076.300049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-37924	chr2-45841
+Merged-chr16-32133546-2	chr16	32056785	32215591	+	1475.600098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-25515	chr16-17872
+Merged-chr11-104633445-2	chr11	104579209	104703723	+	1326.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-56696	chr11-63328
+Merged-chr2-128345872-2	chr2	128152373	128477903	+	2557.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-13987	chr2-48269
+Merged-chr5-23417803-2	chr5	23365740	23466051	+	1123.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-36209	chr5-38605
+Merged-chr13-13566633-2	chr13	13514938	13618543	+	1155.300049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-33676	chr13-26288
+Merged-chr10-77571549-2	chr10	77498571	77647666	+	1538.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-29828	chr10-37694
+Merged-chr19-53191765-2	chr19	53118504	53259622	+	1426.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-28663	chr19-21255
+Merged-chr18-70585200-2	chr18	70520969	70652745	+	1245.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr18-14590	chr18-11500
+Merged-chr6-83431800-2	chr6	83380492	83508478	+	1139.150024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-48756	chr6-46427
+Merged-chr7-80658723-2	chr7	80572326	80736959	+	1213.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-50722	chr7-59186
+Merged-chr2-167788978-2	chr2	167686330	167867482	+	1410.649902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-20301	chr2-65635
+Merged-chr7-122357452-2	chr7	122242248	122466207	+	1604.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-61166	chr7-54695
+Merged-chr10-19982403-2	chr10	19933572	20041246	+	1003.799988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-49820	chr10-43982
+Merged-chr11-68458109-2	chr11	68407324	68503720	+	1425.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-47126	chr11-31545
+Merged-chr5-73246196-2	chr5	73180955	73301827	+	984.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-21860	chr5-23408
+Merged-chr1-125452530-2	chr1	125388115	125526605	+	1052.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-63897	chr1-43205
+Merged-chr2-132637064-2	chr2	132544809	132729244	+	1881.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-53978	chr2-79990
+Merged-chr17-47537520-2	chr17	47484732	47612628	+	1301.350098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-42066	chr17-5640
+Merged-chr7-125576933-2	chr7	125465270	125661461	+	2271.299805	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-34887	chr7-49490
+Merged-chr13-73746037-2	chr13	73672701	73822389	+	1468.100098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-13706	chr13-38793
+Merged-chr3-152929159-2	chr3	152869803	152970619	+	919.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-39376	chr3-20109
+Merged-chr13-51788109-2	chr13	51675543	51900819	+	2324.149902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-36153	chr13-42872
+Merged-chr10-121465616-2	chr10	121409096	121521377	+	1088.849976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-56244	chr10-59544
+Merged-chr14-66236863-2	chr14	66178871	66306894	+	1832.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-35038	chr14-23234
+Merged-chr14-121349390-2	chr14	121306735	121392596	+	1205.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-36675	chr14-39367
+Merged-chr11-4265962-2	chr11	4179955	4351019	+	1502.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-44717	chr11-38468
+Merged-chr10-67070470-2	chr10	66994674	67145974	+	873.150024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-33866	chr10-56483
+Merged-chr7-16019784-2	chr7	15977130	16058973	+	888.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-41237	chr7-50606
+Merged-chr7-58725021-2	chr7	58655682	58795878	+	1330.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-42870	chr7-39058
+Merged-chr12-82234621-2	chr12	82139257	82334199	+	1500.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-18143	chr12-36086
+Merged-chr19-29427666-2	chr19	29342356	29505922	+	1807.600098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-27146	chr19-11045
+Merged-chr2-6643544-2	chr2	6538023	6740216	+	2188.600098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-56475	chr2-73920
+Merged-chr12-84211993-2	chr12	84148033	84288425	+	1396.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-27718	chr12-32513
+Merged-chr11-75566526-2	chr11	75530567	75606253	+	849.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-28889	chr11-25541
+Merged-chr18-60772506-2	chr18	60700950	60866602	+	1166.449951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr18-22621	chr18-22734
+Merged-chr3-83986650-2	chr3	83913238	84048715	+	1007.000000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-20964	chr3-46720
+Merged-chr14-31404927-2	chr14	31357203	31443172	+	968.049988	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-28725	chr14-29643
+Merged-chr15-66789997-2	chr15	66667857	66921347	+	3861.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-29221	chr15-37564
+Merged-chr10-127124578-2	chr10	127055543	127171295	+	1287.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-48366	chr10-47798
+Merged-chr15-25881136-2	chr15	25805424	25969614	+	1376.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-42773	chr15-36161
+Merged-chr13-41424358-2	chr13	41317390	41532695	+	1828.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-25834	chr13-41921
+Merged-chr16-23263655-2	chr16	23127260	23380069	+	2112.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-16196	chr16-23106
+Merged-chr12-51846517-2	chr12	51789425	51895855	+	1094.599976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-35785	chr12-43900
+Merged-chr10-67636444-2	chr10	67571486	67729314	+	1055.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-33922	chr10-45565
+Merged-chr9-65557742-2	chr9	65524190	65590698	+	918.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-22395	chr9-37130
+Merged-chr7-127198891-2	chr7	127073703	127323299	+	2919.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-53328	chr7-17314
+Merged-chr14-121975964-2	chr14	121861927	122090444	+	4431.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr14-36791	chr14-39464
+Merged-chr15-60140991-2	chr15	60087420	60195389	+	1529.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-25279	chr15-28131
+Merged-chr11-83086868-2	chr11	83038112	83125996	+	1296.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-4671	chr11-56434
+Merged-chr4-63884768-2	chr4	63817838	63949883	+	1922.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-47912	chr4-22102
+Merged-chr4-32294420-2	chr4	32117780	32467817	+	5609.899902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr4-34305	chr4-43071
+Merged-chr13-24571946-2	chr13	24393775	24737143	+	3878.949951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr13-21835	chr13-36339
+Merged-chr12-55460547-2	chr12	55414798	55506375	+	1209.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-42184	chr12-44099
+Merged-chr9-44549000-2	chr9	44474678	44622901	+	2054.299805	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-42377	chr9-54145
+Merged-chr15-67143165-2	chr15	67085712	67218781	+	1655.849976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr15-45212	chr15-37692
+Merged-chr19-53887292-2	chr19	53838625	53946341	+	1027.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-28855	chr19-28031
+Merged-chr6-86567399-2	chr6	86428163	86670886	+	2263.399902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-48918	chr6-46557
+Merged-chr2-34969837-2	chr2	34893913	35051711	+	1300.099976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-44507	chr2-61593
+Merged-chr6-48735042-2	chr6	48645371	48845436	+	3211.950195	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-35304	chr6-56210
+Merged-chr10-128754145-2	chr10	128687408	128829455	+	1091.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-24458	chr10-43226
+Merged-chr2-117367934-2	chr2	117283636	117451866	+	2232.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-40513	chr2-63565
+Merged-chr7-117482846-2	chr7	117375990	117644674	+	1878.449951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-45447	chr7-6510
+Merged-chr16-95779815-2	chr16	95701679	95876028	+	1215.500000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-3494	chr16-20548
+Merged-chr7-66170641-2	chr7	66104969	66234790	+	1257.699951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr7-57482	chr7-42940
+Merged-chr17-50107211-2	chr17	49992738	50209988	+	1913.450073	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-42271	chr17-43430
+Merged-chr10-21225900-2	chr10	21145124	21335414	+	1456.849976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-32407	chr10-36358
+Merged-chr19-4142613-2	chr19	4051933	4233409	+	2561.350098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-19347	chr19-25782
+Merged-chr9-66604333-2	chr9	66539256	66690217	+	1115.800049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr9-22457	chr9-50066
+Merged-chr11-32582757-2	chr11	32522720	32651556	+	1616.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-68929	chr11-72997
+Merged-chr1-191410096-2	chr1	191350468	191463298	+	1062.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr1-58539	chr1-74557
+Merged-chr8-69956552-2	chr8	69888063	70012565	+	995.950012	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-40311	chr8-35037
+Merged-chr17-35199028-2	chr17	35105764	35264665	+	1736.250000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr17-26366	chr17-38297
+Merged-chr16-10721822-2	chr16	10524738	10868301	+	3725.450195	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr16-24296	chr16-10722
+Merged-chr19-57094162-2	chr19	57051469	57136382	+	1382.600098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr19-28971	chr19-28134
+Merged-chr2-79203837-2	chr2	79037281	79277186	+	1494.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-31031	chr2-77757
+Merged-chr12-3836214-2	chr12	3739325	3913852	+	1221.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr12-39927	chr12-42316
+Merged-chr5-65894997-2	chr5	65813142	65974528	+	2252.350098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr5-32528	chr5-36019
+Merged-chr11-79647079-2	chr11	79591422	79712112	+	1130.199951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr11-72931	chr11-51546
+Merged-chr3-135638612-2	chr3	135556246	135733077	+	1611.900024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr3-7958	chr3-39895
+Merged-chr2-102872627-2	chr2	102810513	102916888	+	1006.400024	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-52663	chr2-57243
+Merged-chr2-31114296-2	chr2	31024479	31187178	+	1948.750000	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr2-16782	chr2-55544
+Merged-chr8-124281015-2	chr8	124226455	124346989	+	1410.050049	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr8-32496	chr8-41378
+Merged-chr6-72971986-2	chr6	72918860	73018976	+	1175.399902	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr6-27511	chr6-25475
+Merged-chr10-59947641-2	chr10	59878719	60029062	+	1939.349976	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-44597	chr10-22419
+Merged-chr10-80661126-2	chr10	80558582	80714904	+	1435.449951	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	2	chr10-20563	chr10-5752
+Merged-chr9-32702349-4	chr9	32430503	33037475	+	4150.475098	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	4	chr9-4437,chr9-41591	chr9-35871,chr9-10749
+Merged-chr7-75661701-4	chr7	75454022	75893730	+	2407.825195	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	4	chr7-50201,chr7-26027	chr7-58774,chr7-52704
+Merged-chr4-8853373-3	chr4	8689321	9032251	+	1929.733276	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr4-39371,chr4-39269	chr4-52867
+Merged-chr15-27653074-3	chr15	27481907	27887897	+	1909.200073	AND-CD4TCell-H3K27Ac-No-Peptide-24h-MNase-Combined_superenhancers.txt|AND-CD4TCell-H3K27Ac-1uM-PCC-24h-MNase-Combined_superenhancers.txt	3	chr15-42934,chr15-37032	chr15-44560
