@@ -4,9 +4,9 @@ The activation signature score, as described in the related manuscript, can be u
 
 The simplest path to use:
 
-1. Download the [calculate_activation_signature_score.py](calculate_activation_signature_score.py) script and the list of genes in [activation_score_genes](activation_score_genes.txt) into a directory.
+1. Download the [calculate_activation_signature_score.py](calculate_activation_signature_score.py) script and the list of genes in [activation_score_genes.txt](activation_score_genes.txt) into a directory.
 
-1. Prepare the input file. For a given set of samples, you should generate a **tab-delimited** file:
+2. Prepare the input file. For a given set of samples, you should generate a **tab-delimited** file:
 	
 	- The first column should be labeled either `gene symbol` or `refseq`, and should contain either the standard gene symbol (for example, `Tnf`) for the given transcript or the murine RefSeq identifier (for example, `NM_013693`).
 
@@ -22,7 +22,7 @@ The simplest path to use:
 	...
 ```
 
-1. Run the script with the input file as a parameter on the command line. The output will be printed to standard out:
+3. Run the script with the input file as a parameter on the command line. The output will be printed to standard out:
 
 ```
 	python calculate_activation_signature_score.py -f my_gene_values.txt
